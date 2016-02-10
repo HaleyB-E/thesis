@@ -7,8 +7,11 @@
 \contentsline {subsection}{\numberline {3.2}Current Political Status}{4}
 \contentsline {subsection}{\numberline {3.3}Previous Analysis of the Problem}{4}
 \contentsline {section}{\numberline {4}Methodology}{5}
-\contentsline {section}{\numberline {5}Historical Analysis}{5}
-\contentsline {section}{\numberline {6}Technical Analysis}{5}
-\contentsline {section}{\numberline {7}Rhetorical Analysis}{5}
-\contentsline {section}{\numberline {8}Results and Discussion}{5}
-\contentsline {section}{\numberline {9}Conclusion}{5}
+\contentsline {subsection}{\numberline {4.1}Historical Analysis}{5}
+\contentsline {subsection}{\numberline {4.2}Technical Analysis}{6}
+\contentsline {subsection}{\numberline {4.3}Rhetorical Analysis}{6}
+\contentsline {section}{\numberline {5}Historical Analysis}{6}
+\contentsline {section}{\numberline {6}Technical Analysis}{6}
+\contentsline {section}{\numberline {7}Rhetorical Analysis}{6}
+\contentsline {section}{\numberline {8}Results and Discussion}{6}
+\contentsline {section}{\numberline {9}Conclusion}{6}
