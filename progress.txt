@@ -2,7 +2,7 @@ Section Title| Status
 -------------|--------
 Introduction | 1st draft done
 Background   | Needs update for 2016
-Methodology  |
+Methodology  | 1st draft done
 Historical   |
 Technical    |
 Rhetorical   |

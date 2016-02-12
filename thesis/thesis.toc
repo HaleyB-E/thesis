@@ -5,13 +5,13 @@
 \contentsline {section}{\numberline {3}Background}{3}
 \contentsline {subsection}{\numberline {3.1}Brief history of North Korean nuclear programs and negotiation attempts}{3}
 \contentsline {subsection}{\numberline {3.2}Current Political Status}{4}
-\contentsline {subsection}{\numberline {3.3}Previous Analysis of the Problem}{4}
+\contentsline {subsection}{\numberline {3.3}Previous Analysis of the Problem}{5}
 \contentsline {section}{\numberline {4}Methodology}{5}
 \contentsline {subsection}{\numberline {4.1}Historical Analysis}{5}
 \contentsline {subsection}{\numberline {4.2}Technical Analysis}{6}
-\contentsline {subsection}{\numberline {4.3}Rhetorical Analysis}{6}
-\contentsline {section}{\numberline {5}Historical Analysis}{6}
-\contentsline {section}{\numberline {6}Technical Analysis}{6}
-\contentsline {section}{\numberline {7}Rhetorical Analysis}{6}
-\contentsline {section}{\numberline {8}Results and Discussion}{6}
-\contentsline {section}{\numberline {9}Conclusion}{6}
+\contentsline {subsection}{\numberline {4.3}Rhetorical Analysis}{7}
+\contentsline {section}{\numberline {5}Historical Analysis}{7}
+\contentsline {section}{\numberline {6}Technical Analysis}{7}
+\contentsline {section}{\numberline {7}Rhetorical Analysis}{7}
+\contentsline {section}{\numberline {8}Results and Discussion}{7}
+\contentsline {section}{\numberline {9}Conclusion}{7}
