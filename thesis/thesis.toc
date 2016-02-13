@@ -22,7 +22,10 @@
 \contentsline {subsection}{\numberline {5.9}Cycle 8}{12}
 \contentsline {subsection}{\numberline {5.10}Cycle 9}{12}
 \contentsline {subsection}{\numberline {5.11}Cycle 10}{13}
-\contentsline {section}{\numberline {6}Technical Analysis}{13}
-\contentsline {section}{\numberline {7}Rhetorical Analysis}{13}
-\contentsline {section}{\numberline {8}Results and Discussion}{13}
-\contentsline {section}{\numberline {9}Conclusion}{13}
+\contentsline {subsection}{\numberline {5.12}Summary of cycles}{14}
+\contentsline {subsubsection}{\numberline {5.12.1}Beginnings and Endings}{14}
+\contentsline {subsubsection}{\numberline {5.12.2}Notable Events}{15}
+\contentsline {section}{\numberline {6}Technical Analysis}{15}
+\contentsline {section}{\numberline {7}Rhetorical Analysis}{15}
+\contentsline {section}{\numberline {8}Results and Discussion}{15}
+\contentsline {section}{\numberline {9}Conclusion}{15}
