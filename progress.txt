@@ -1,0 +1,11 @@
+Section Title| Status
+-------------|--------
+Introduction | 1st draft done
+Background   | Needs update for 2016
+Methodology  | 1st draft done
+Historical   | 1st draft done (needs 2016 update)
+Technical    |
+Rhetorical   |
+Res/Disc     |
+Conclusions  |
+References   |

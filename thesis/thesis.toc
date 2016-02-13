@@ -3,12 +3,29 @@
 \contentsline {subsection}{\numberline {2.1}Motivation}{2}
 \contentsline {subsection}{\numberline {2.2}Objectives}{3}
 \contentsline {section}{\numberline {3}Background}{3}
-\contentsline {subsection}{\numberline {3.1}Brief history of North Korean nuclear programs and negotiation attempts}{3}
+\contentsline {subsection}{\numberline {3.1}Brief history of North Korean nuclear programs and negotiations}{3}
 \contentsline {subsection}{\numberline {3.2}Current Political Status}{4}
-\contentsline {subsection}{\numberline {3.3}Previous Analysis of the Problem}{4}
+\contentsline {subsection}{\numberline {3.3}Previous Analysis of the Problem}{5}
 \contentsline {section}{\numberline {4}Methodology}{5}
-\contentsline {section}{\numberline {5}Historical Analysis}{5}
-\contentsline {section}{\numberline {6}Technical Analysis}{5}
-\contentsline {section}{\numberline {7}Rhetorical Analysis}{5}
-\contentsline {section}{\numberline {8}Results and Discussion}{5}
-\contentsline {section}{\numberline {9}Conclusion}{5}
+\contentsline {subsection}{\numberline {4.1}Historical Analysis}{5}
+\contentsline {subsection}{\numberline {4.2}Technical Analysis}{6}
+\contentsline {subsection}{\numberline {4.3}Rhetorical Analysis}{7}
+\contentsline {section}{\numberline {5}Historical Analysis}{7}
+\contentsline {subsection}{\numberline {5.1}Early development of the North Korean nuclear program}{7}
+\contentsline {subsection}{\numberline {5.2}Cycle 1}{8}
+\contentsline {subsection}{\numberline {5.3}Cycle 2}{8}
+\contentsline {subsection}{\numberline {5.4}Cycle 3}{9}
+\contentsline {subsection}{\numberline {5.5}Cycle 4}{9}
+\contentsline {subsection}{\numberline {5.6}Cycle 5}{10}
+\contentsline {subsection}{\numberline {5.7}Cycle 6}{10}
+\contentsline {subsection}{\numberline {5.8}Cycle 7}{11}
+\contentsline {subsection}{\numberline {5.9}Cycle 8}{12}
+\contentsline {subsection}{\numberline {5.10}Cycle 9}{12}
+\contentsline {subsection}{\numberline {5.11}Cycle 10}{13}
+\contentsline {subsection}{\numberline {5.12}Summary of cycles}{14}
+\contentsline {subsubsection}{\numberline {5.12.1}Beginnings and Endings}{14}
+\contentsline {subsubsection}{\numberline {5.12.2}Notable Events}{15}
+\contentsline {section}{\numberline {6}Technical Analysis}{15}
+\contentsline {section}{\numberline {7}Rhetorical Analysis}{15}
+\contentsline {section}{\numberline {8}Results and Discussion}{15}
+\contentsline {section}{\numberline {9}Conclusion}{15}
