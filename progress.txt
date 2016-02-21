@@ -5,7 +5,7 @@ Background   | Needs update for 2016
 Methodology  | 1st draft done
 Historical   | 1st draft done (needs 2016 update)
 Technical    |
-Rhetorical   |
+Rhetorical   | Notes on KCNA done
 Res/Disc     |
 Conclusions  |
 References   |
