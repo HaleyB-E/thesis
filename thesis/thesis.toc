@@ -7,7 +7,7 @@
 \contentsline {subsection}{\numberline {3.2}Current Political Status}{4}
 \contentsline {subsection}{\numberline {3.3}Previous Analysis of the Problem}{5}
 \contentsline {section}{\numberline {4}Methodology}{5}
-\contentsline {subsection}{\numberline {4.1}Historical Analysis}{5}
+\contentsline {subsection}{\numberline {4.1}Historical Analysis}{6}
 \contentsline {subsection}{\numberline {4.2}Technical Analysis}{6}
 \contentsline {subsection}{\numberline {4.3}Rhetorical Analysis}{7}
 \contentsline {section}{\numberline {5}Historical Analysis}{7}
