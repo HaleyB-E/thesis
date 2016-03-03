@@ -37,8 +37,8 @@
 \contentsline {subsubsection}{\numberline {6.2.2}United States}{20}
 \contentsline {subsection}{\numberline {6.3}Cycle-based Analysis}{20}
 \contentsline {subsubsection}{\numberline {6.3.1}DPRK}{20}
-\contentsline {subsubsection}{\numberline {6.3.2}US}{21}
-\contentsline {subsection}{\numberline {6.4}Cycles summarized}{21}
-\contentsline {subsection}{\numberline {6.5}Cyclic Trends Identified}{21}
-\contentsline {section}{\numberline {7}Results and Discussion}{21}
-\contentsline {section}{\numberline {8}Conclusion}{21}
+\contentsline {subsubsection}{\numberline {6.3.2}US}{22}
+\contentsline {subsection}{\numberline {6.4}Cycles summarized}{22}
+\contentsline {subsection}{\numberline {6.5}Cyclic Trends Identified}{22}
+\contentsline {section}{\numberline {7}Results and Discussion}{23}
+\contentsline {section}{\numberline {8}Conclusion}{23}
