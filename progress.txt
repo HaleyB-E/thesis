@@ -5,7 +5,7 @@ Background   | Needs update for 2016 or explanation of timeframe
 Methodology  | 1st draft done
 Historical   | 1st draft done (timeline on gsheets)
 Technical    |
-Rhetorical   | Notes on KCNA done
+Rhetorical   | Outline on KCNA done, notes on US mostly done
 Res/Disc     |
 Conclusions  |
 References   |
