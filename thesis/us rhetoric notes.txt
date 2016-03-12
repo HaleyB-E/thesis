@@ -6,6 +6,7 @@ International Affairs 79, 4 (2003) 719-737
 http://onlinelibrary.wiley.com.libproxy.mit.edu/doi/10.1111/1468-2346.00333/epdf
 -US policy frames DPRK as irrational, cause of all problems, eeeeeeevil
 -"The rhetoric of rogue states is indicative of how USforeign policy continues to be driven by dualistic and militaristic Cold Warthinking patterns. The ‘Evil Empire’ may be gone; not so the underlying needto define safety and security with reference to an external threat that must bewarded off at any cost"
+-nicholas eberstadt (fundamental policy document, according to Smith) claims instability in NE asia ALL DPRK's fault
 -during Bush administration, preemptive strike policy against "rogue states" reinforced implicit/explicit threat posed by US to DPRK
 	-US policy obscures the result of this by blaming DPRK for problems
 -case study: foreign policy during the 1994 crisis by the US framed DPRK as rogue state, discouraged mutual cooperation, fostered recalcitrance
@@ -29,7 +30,7 @@ https://books.google.com/books/about/Parallax_Visions.html?id=oKfb-RZaB_EC&print
 
 "Bad, mad, sad, or rational actor? Why the 'securitization' paradigm makes for poor policy analysis of north Korea" Hazel Smith, International Affairs, Vol 76 Issue 3, Dec 2002
 
-http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00154/pdf_
+http://onlinelibrary.wiley.com/doi/10.1111/1468-2346.00154/pdf
 
 -characterizes the split view of DPRK as "bad" ("motivated by malevolence and belligerence and its leadership's foreign and domestic policies can be ascribed to evil intent. Internationally, north Korea is ready to make war upon its neighbours, perhaps even to attack the United States itself and, in pursuit of these offensive aims, is constantly engaged in a furtive arms buildup."; this is where "rogue state" language comes from; the framing of the DPRK's military readiness as "overwhelming" w/r/t ROK's without taking into account material differences between themselves and the South) and "mad" (essentially the same as "bad" with the nuance of also assuming an irrational actor; "unknowable, unpredictable and dangerous because of the underlying presumed ill intent of its leadership."; some amount of mystification - claims that the DPRK is unknowABLE because it frequently does not follow conventional-wisdom diplomatic decisionmaking/adhere to common diplomatic norms)
 -securitization paradigm followed by US and other foreign nations engaging with DPRK is inflexible; bad at accounting for new/changing conditions; only admits the possibility that, fundamentally, either nothing can be done re: DPRK or nothing SHOULD be done.
@@ -50,7 +51,8 @@ https://books.google.com/books?id=x9sn_SpWmiYC&dq=us+north+korea+rhetoric&lr=&so
 
 
 U.S.-North Korean Relations under the Bush Administration: From "Slow Go" to "No Go" 
-Sebastian Harnisch, Asian Survey, Vol. 42, No. 6 (November/December 2002), pp. 856-882http://www.jstor.org.libproxy.mit.edu/stable/pdf/10.1525/as.2002.42.6.856.pdf?acceptTC=true
+Sebastian Harnisch, Asian Survey, Vol. 42, No. 6 (November/December 2002), pp. 856-882
+http://www.jstor.org.libproxy.mit.edu/stable/pdf/10.1525/as.2002.42.6.856.pdf?acceptTC=true
 -Republican voices in Congress helped push demands by the US higher and higher at the end of the Clinton administration, and "the trend to raise the bar to build a domestic consensus has accelerated during the Bush administration because of heavy bureaucratic infighting"
 -Rumsfeld rhetoric about the "axis of evil" suggests hostility (to the point of being plausible interpretable as We Will Preemptive Strike)
 -problems within Bush II administration: DPRK targeted charm offensive on State Department, which worked, but was undermined by other parts of the administration
@@ -60,4 +62,26 @@ Sebastian Harnisch, Asian Survey, Vol. 42, No. 6 (November/December 2002), pp. 8
 -"In sum, since taking office the Bush administration position vis-a-vis Pyongyang had toughened considerably, even before solid intelligence occurred that Pyongyang was pursuing a secret nuclear weapons program, because of the need to build a domestic consensus among moderate and hardline critics of North Korea within the administration and in Congress"
 
 
+
+"Perry Report" http://nsarchive.gwu.edu/NSAEBB/NSAEBB87/nk20.pdf
+"Review of United States Policy Towards North Korea: Findings and Recommendations" by Dr. William J. Perry, Special Advisor to the President and the Secretary of State, October 1999.
+-Agreed Framework was good, but the world has changed since it was implemented (KIS --> KJI, DPRK economy in the shitter, DPRK has advanced its missile tech, ROK has gotten more friendly with north, Japan has gotten less friendly)
+-control of nuclear proliferation in the region k2 regional security of all kinds, b/c arms race and shit
+-we shouldn't undermine the agreed framework, because it has WORKED
+Key findings:
+	-DPRK w/ nukes is Bad News - we REALLY don't want that
+	-we would win a korean war, but it'd suck
+	-we have to be prepared to normalize diplomatic relations if it'll get them to give up nukes
+	-yongbyon is the easiest path to nukes - so we need to keep the agreed framework, since that is the thing that has worked to keep it frozen
+	-need to coordinate w/ROK and Japan
+	-"a successful US policy will require steadiness and persistence even in the face of provocations"
+Policy options rejected:
+	-squo deterrence/limited engagement: it's worked previously but it's not sustainable/would collapse in crisis or would lose political support for the useful parts
+	-undermining DPRK: would take a long time, might result in war, might be :( for citizens
+	-reforming DPRK: hahahaha it's nice to want things
+	-give DPRK $$$: that's BLACKMAIL!
+Option suggested:
+	-"two-path strategy"
+	-"new, comprehensive, and integrated approach to our negotiations with the DPRK": want assurances re: nukes and missile testing, but reciprocally reduce threats to DPRK (normalize relations, decrease sanctions, etc.)
+	-if that fails, "take firm but measured steps to persuade the DPRK" to do the thing, but also "act to contain the threat that we have been unable to eliminate through negotiation" - don't torch the agreed framework, but approve a different plan of action for contingencies that's punishing
 
