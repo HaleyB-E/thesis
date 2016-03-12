@@ -34,10 +34,11 @@
 \contentsline {subsection}{\numberline {6.1}Methodology}{19}
 \contentsline {subsection}{\numberline {6.2}General Rhetorical Trends}{20}
 \contentsline {subsubsection}{\numberline {6.2.1}North Korea}{20}
-\contentsline {subsubsection}{\numberline {6.2.2}United States}{20}
-\contentsline {subsection}{\numberline {6.3}Cycle-based Analysis}{20}
-\contentsline {subsubsection}{\numberline {6.3.1}North Korea}{21}
-\contentsline {subsubsection}{\numberline {6.3.2}US}{23}
-\contentsline {subsection}{\numberline {6.4}Conclusions}{23}
-\contentsline {section}{\numberline {7}Results and Discussion}{23}
-\contentsline {section}{\numberline {8}Conclusion}{23}
+\contentsline {subsubsection}{\numberline {6.2.2}United States}{21}
+\contentsline {subsection}{\numberline {6.3}Cycle-based Analysis}{21}
+\contentsline {subsubsection}{\numberline {6.3.1}North Korea}{22}
+\contentsline {subsubsection}{\numberline {6.3.2}US}{24}
+\contentsline {subsection}{\numberline {6.4}Conclusions}{24}
+\contentsline {subsubsection}{\numberline {6.4.1}North Korea}{24}
+\contentsline {section}{\numberline {7}Results and Discussion}{25}
+\contentsline {section}{\numberline {8}Conclusion}{25}
