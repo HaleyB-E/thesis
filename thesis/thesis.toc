@@ -38,7 +38,8 @@
 \contentsline {subsection}{\numberline {6.3}Cycle-based Analysis}{22}
 \contentsline {subsubsection}{\numberline {6.3.1}North Korea}{23}
 \contentsline {subsubsection}{\numberline {6.3.2}United States}{25}
-\contentsline {subsection}{\numberline {6.4}Conclusions}{26}
-\contentsline {subsubsection}{\numberline {6.4.1}North Korea}{26}
-\contentsline {section}{\numberline {7}Results and Discussion}{26}
-\contentsline {section}{\numberline {8}Conclusion}{27}
+\contentsline {subsection}{\numberline {6.4}Conclusions}{27}
+\contentsline {subsubsection}{\numberline {6.4.1}North Korea}{27}
+\contentsline {subsection}{\numberline {6.5}United States}{27}
+\contentsline {section}{\numberline {7}Results and Discussion}{28}
+\contentsline {section}{\numberline {8}Conclusion}{28}
