@@ -6,40 +6,42 @@
 \contentsline {subsection}{\numberline {3.1}Brief history of North Korean nuclear programs and negotiations}{4}
 \contentsline {subsection}{\numberline {3.2}Current Political Status}{5}
 \contentsline {subsection}{\numberline {3.3}Previous Analysis of the Problem}{6}
-\contentsline {section}{\numberline {4}Historical Analysis}{6}
-\contentsline {subsection}{\numberline {4.1}Methodology}{6}
-\contentsline {subsection}{\numberline {4.2}Early development of the North Korean nuclear program}{7}
-\contentsline {subsection}{\numberline {4.3}Cycle 1}{8}
-\contentsline {subsection}{\numberline {4.4}Cycle 2}{8}
-\contentsline {subsection}{\numberline {4.5}Cycle 3}{9}
-\contentsline {subsection}{\numberline {4.6}Cycle 4}{9}
-\contentsline {subsection}{\numberline {4.7}Cycle 5}{10}
-\contentsline {subsection}{\numberline {4.8}Cycle 6}{10}
-\contentsline {subsection}{\numberline {4.9}Cycle 7}{11}
-\contentsline {subsection}{\numberline {4.10}Cycle 8}{12}
-\contentsline {subsection}{\numberline {4.11}Cycle 9}{12}
-\contentsline {subsection}{\numberline {4.12}Cycle 10}{13}
-\contentsline {subsection}{\numberline {4.13}Summary of cycles}{14}
-\contentsline {subsubsection}{\numberline {4.13.1}Beginnings and Endings}{14}
-\contentsline {subsubsection}{\numberline {4.13.2}Notable Events}{15}
-\contentsline {subsection}{\numberline {4.14}Trends}{15}
-\contentsline {subsubsection}{\numberline {4.14.1}Cycles instigated by North Korea}{15}
-\contentsline {subsubsection}{\numberline {4.14.2}Cycles instigated by the United States}{16}
-\contentsline {subsubsection}{\numberline {4.14.3}Effects of weapons tests}{16}
-\contentsline {subsubsection}{\numberline {4.14.4}The memorylessness of North Korea}{18}
-\contentsline {subsection}{\numberline {4.15}Conclusions}{18}
-\contentsline {section}{\numberline {5}Technical Analysis}{19}
-\contentsline {subsection}{\numberline {5.1}Methodology}{19}
-\contentsline {section}{\numberline {6}Rhetorical Analysis}{20}
-\contentsline {subsection}{\numberline {6.1}Methodology}{20}
-\contentsline {subsection}{\numberline {6.2}General Rhetorical Trends}{21}
-\contentsline {subsubsection}{\numberline {6.2.1}North Korea}{21}
-\contentsline {subsubsection}{\numberline {6.2.2}United States}{22}
-\contentsline {subsection}{\numberline {6.3}Cycle-based Analysis}{22}
-\contentsline {subsubsection}{\numberline {6.3.1}North Korea}{23}
-\contentsline {subsubsection}{\numberline {6.3.2}United States}{25}
-\contentsline {subsection}{\numberline {6.4}Conclusions}{27}
-\contentsline {subsubsection}{\numberline {6.4.1}North Korea}{27}
-\contentsline {subsection}{\numberline {6.5}United States}{27}
-\contentsline {section}{\numberline {7}Results and Discussion}{28}
+\contentsline {section}{\numberline {4}Historical Analysis}{7}
+\contentsline {subsection}{\numberline {4.1}Methodology}{7}
+\contentsline {subsection}{\numberline {4.2}Timeline}{7}
+\contentsline {subsubsection}{\numberline {4.2.1}Early development of the North Korean nuclear program}{7}
+\contentsline {subsubsection}{\numberline {4.2.2}Cycle 1}{8}
+\contentsline {subsubsection}{\numberline {4.2.3}Cycle 2}{8}
+\contentsline {subsubsection}{\numberline {4.2.4}Cycle 3}{9}
+\contentsline {subsubsection}{\numberline {4.2.5}Cycle 4}{9}
+\contentsline {subsubsection}{\numberline {4.2.6}Cycle 5}{10}
+\contentsline {subsubsection}{\numberline {4.2.7}Cycle 6}{10}
+\contentsline {subsubsection}{\numberline {4.2.8}Cycle 7}{11}
+\contentsline {subsubsection}{\numberline {4.2.9}Cycle 8}{12}
+\contentsline {subsubsection}{\numberline {4.2.10}Cycle 9}{12}
+\contentsline {subsubsection}{\numberline {4.2.11}Cycle 10}{13}
+\contentsline {subsection}{\numberline {4.3}Summary Tables}{14}
+\contentsline {subsection}{\numberline {4.4}Trends Across Cycles}{15}
+\contentsline {subsubsection}{\numberline {4.4.1}Cycles instigated by North Korean Diplomacy}{15}
+\contentsline {subsubsection}{\numberline {4.4.2}Cycles instigated by American Action}{16}
+\contentsline {subsubsection}{\numberline {4.4.3}Effects of weapons tests}{16}
+\contentsline {subsection}{\numberline {4.5}Conclusions}{18}
+\contentsline {section}{\numberline {5}Technical Analysis}{18}
+\contentsline {subsection}{\numberline {5.1}Methodology}{18}
+\contentsline {subsection}{\numberline {5.2}Production Capacity}{19}
+\contentsline {subsection}{\numberline {5.3}Stockpile Estimation}{19}
+\contentsline {subsection}{\numberline {5.4}Missile and Bomb Technology}{19}
+\contentsline {subsection}{\numberline {5.5}Conclusions}{19}
+\contentsline {section}{\numberline {6}Rhetorical Analysis}{19}
+\contentsline {subsection}{\numberline {6.1}Methodology}{19}
+\contentsline {subsection}{\numberline {6.2}North Korean Rhetorical Trends}{20}
+\contentsline {subsubsection}{\numberline {6.2.1}Time-Invariant}{20}
+\contentsline {subsubsection}{\numberline {6.2.2}Time-Variant}{21}
+\contentsline {subsection}{\numberline {6.3}American Rhetorical Trends}{23}
+\contentsline {subsubsection}{\numberline {6.3.1}Time-Invariant}{23}
+\contentsline {subsubsection}{\numberline {6.3.2}Time-Variant}{24}
+\contentsline {subsection}{\numberline {6.4}Conclusions}{26}
+\contentsline {subsubsection}{\numberline {6.4.1}North Korea}{26}
+\contentsline {subsection}{\numberline {6.5}United States}{26}
+\contentsline {section}{\numberline {7}Results and Discussion}{27}
 \contentsline {section}{\numberline {8}Conclusion}{28}
