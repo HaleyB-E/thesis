@@ -1,11 +1,11 @@
 Section Title| Status
 -------------|--------
 Introduction | 1st draft done
-Background   | Needs update for 2016 or explanation of timeframe
+Background   | 1st draft done
 Methodology  | 1st draft done
 Historical   | 1st draft done (timeline on gsheets)
 Technical    |
-Rhetorical   | 1st draft done (except US rhetoric conclusions)
+Rhetorical   | 1st draft done
 Res/Disc     |
 Conclusions  |
 References   |

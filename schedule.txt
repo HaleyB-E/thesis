@@ -1,11 +1,11 @@
 Week ending in | Working on
 ---------------|------------
-Feb 12	       | Re-update history, write methodology      			|Method done, needs explanation of range
+Feb 12	       | Re-update history, write methodology      			|Done
 Feb 19	       | Numerical analysis - materials and tech level
 Feb 26	       | Numerical analysis - missiles and threat range
 Mar 4	       | Rhetoric - KCNA						|Done
-Mar 11	       | Rhetoric - US							|All but conclusion done
-Mar 18	       | Make sure nothing is totally hosed - maybe send to advisor	
+Mar 11	       | Rhetoric - US							|Done
+Mar 18	       | Make sure nothing is totally hosed - maybe send to advisor	|talked to kemp, will email work so far 
 Mar 25	       | Start analysis & conclusions
 Apr 1	       | Finish analysis & conclusions, polishing before submit
 Apr 8	       | Finish first draft, ask Kemp for feedback

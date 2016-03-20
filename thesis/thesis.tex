@@ -1,6 +1,8 @@
 \documentclass{article}
 \usepackage[utf8]{inputenc}
 \usepackage{todo}
+\usepackage{float}
+\usepackage{caption} \captionsetup[table]{singlelinecheck=false}
 
 \title{Thesis Introduction and Background}
 \author{Haley Brandt-Erichsen}
@@ -81,6 +83,8 @@ DPRK – Democratic People’s Republic of Korea (North Korea)
 
 \noindent NPT - Treaty on the Non-Proliferation of Nuclear Weapons (Non-Proliferation Treaty)
 
+\noindent PSI - Proliferation Security Initiative
+
 \noindent ROK – Republic of Korea (South Korea)
 
 \noindent UNSC – United Nations Security Council
@@ -101,7 +105,9 @@ When these methods have not succeeded, the UN and individual countries attemptin
 
 It is hypothesized that United States strategy in negotiating with North Korea is inconsistent with the technical facts of the North Korean nuclear program and past negotiating behavior. In other words, the cyclical nature of negotiations persists because negotiators base their positions on what they want to be true about the DPRK, rather than the facts of the situation. 
 
-In order to test this hypothesis, data will be gleaned from analysis along three axes. Examination of the history of negotiations past will be combined with calculations on nuclear material stockpiles, weapons testing yields, and production capacity, as well as analysis of the rhetoric of press releases and offifical government statements. This combines qualitative and quantitative analysis in order to form the most complete picture of the DPRK's objectives and abilities possible.
+In order to test this hypothesis, data will be gleaned from analysis along three axes. Examination of the history of negotiations past will be combined with calculations on nuclear material stockpiles, weapons testing yields, and production capacity, as well as analysis of the rhetoric of press releases and offifical government statements. This combines qualitative and quantitative analysis in order to form the most complete picture of the DPRK's objectives and abilities possible. 
+
+\Todo{decide whether to scrap technical analysis portion - it seems kind of disjoint from the rest of the project}
 
 A number of likely indicators of problems in American negotiation strategies can be predicted even before significant analysis has taken place. If North Korea's technical achievements are n line with or on trajectory to match its stated end goals for a nuclear arsenal and infrastructure, it seems unlikely to acquiesce to external pressures to reverse course. Also, if its rhetoric regarding denuclearization has been consistent across a wide variety of incentives and penalties, it is unlikely that variation in the terms of agreements along existing strategies will have a noticeable impact.
 
@@ -120,7 +126,7 @@ Simultaneously, the Yongbyon reactors that the KEDO project was intended to repl
 
 As the reprocessing facility in Yongbyn operated in fits and starts, the DPRK gradually accumulated enough plutonium to produce nuclear weapons. An underground nuclear test in a DPRK facility in 2006 shocked and horrified the international community, which immediately responded with political admonishments and economic sanctions \cite{davenport}. To date, the DPRK has tested nuclear weapons twice more, along with a number of missile tests going back to 1998 \cite{orfall} and including launches in 2013 that culminated in the successful placement of a satellite into orbit \cite{davenport}. In addition to the nuclear tests, missile tests and rocket launches by the DPRK have been roundly criticized by the UN and many individual nations as attempts to develop effective nuclear missiles \cite{unApr12}.
 
-\Todo{'Update background for 2016 changes'}
+\todo{update for 2016}
 
 \subsection{Current Political Status}
 
@@ -140,7 +146,7 @@ Though the concept of modeling US-DPRK relations as a series of cycles is well-s
 
 There is a decently broad body of research focusing on rhetorical analysis of the North Korean nuclear issue. Several authors \cite{rich12, rich14, sin} have worked with automated content analysis to look at how references to countries and specific incidents correlate with references to nuclear programs in official North Korean news outlets.
 
-Additionally, work on the shifts and nuances of American rhetoric in nuclear negotiations with the DPRK exists - albeit in somewhat less detail than the work done on KCNA documents. Bleiker \cite{bleiker} identifies the relationship between the rise and fall of "rogue state" terminology used by various American presidents and US-DPRK relations. However, it does not appear that any kind of large-scale data-aggregating study has been done on American official statements in the way that Rich \cite{rich12, rich14} and Sin \cite{sin} worked with North Korean documents.
+Additionally, work on the shifts and nuances of American rhetoric in nuclear negotiations with the DPRK exists - albeit in somewhat less detail than the work done on KCNA documents \cite{bleiker,cumings,harnisch,huntley}. However, it does not appear that any kind of large-scale data-aggregating study has been done on American official statements in the manner of studies on North Korean documents. This makes sense given the relative volume of official material produced on the issue by each government, but complicates the process of comparing American and North Korean rhetorical strategies.
 
 \section{Historical Analysis}
 \subsection{Methodology}
@@ -149,18 +155,21 @@ Identifying the timing and relationship between various events - like sanctions,
 
 In keeping with established literature, analysis is patterned on the notion that US-DPRK relations are cyclic in nature. However, unlike much previous work, no attempt is made to fit individual behavior cycles to specific models. Instead, a broad analysis of instances of escalatory behavior is undertaken. Since this does not rely upon fitting all categories of events into a single three-to-five-step process (as is common within historical analysis of this problem \cite{fisher, jun}), it may be possible to identify correlations that have previously been missed.
 
-Thus, behavioral cycles are here defined as any instigating event followed by a chain of other events which are direct responses to some action earlier in the chain. This allows classification into individual cycles for ease of pattern analysis, while avoiding the preconceptions built into a model with defined steps.
+Thus, escalatory cycles are here defined as any instigating event followed by a chain of other events which are direct responses to some action earlier in the chain. This allows classification into individual cycles for ease of pattern analysis, while avoiding the preconceptions built into a model with defined steps.
+
+Analysis will be limited to events occurring before 2014. This does mean that conclusions will be somewhat lacking insofar as they cannot take the most recent events into account - however, initial examination suggests that the events of 2014 and later are part of an escalatory cycle that is still ongoing. It seems unproductive to attempt to draw conclusions about the results of escalatory cycles using data from a cycle that is still unfolding - nothing can be said about the success or failure of the strategies employed during that cycle until it is over and results of any kind have appeared.
 
 While even a model of this generality does exclude some relevant details (not every significant event in US-DPRK diplomatic history fits within an escalatory cycle), the purpose of this analysis is not a complete encapsulation of information about negotiations. Rather, the intention is to narrow a complicated multilateral diplomacy problem to a more tractable case, by forming a timeline of significant events that will serve as the backbone for subsequent analysis of technical and rhetorical changes.
 
-\subsection{Early development of the North Korean nuclear program}
+\subsection{Timeline}
+\subsubsection{Early development of the North Korean nuclear program}
 In 1952, North Korea established an organization to begin research into nuclear technologies, the Atomic Energy Research Institute\cite{ntiAERI}. Four years later, with little progress made, they signed an agreement with the USSR in order to train Korean scientists\cite{nti15}. Then, in 1959, additional agreements gave birth to the Yongbyon research complex, as the USSR began to assist the DPRK with construction and materials for a research reactor in addition to technical training\cite{nti15}.
 
 By the early 1970s, nuclear expertise in the DPRK had advanced to the point that they were no longer reliant upon the Soviet Union for reactor technology (and, indeed, had begun to make their own improvements on the IRT-2000 research reactor design)\cite{nti15}. However, the partnership was still strong, and the USSR began to provide the DPRK with assistance in developing plutonium reprocessing capacity\cite{nti15}.
 
 A decade later, North Korea’s technical development continued to improve rapidly as they pursued technologies all along the nuclear fuel cycle – as well as several significantly larger reactors (5 MWe in 1979\cite{ntiYongbyon}, 50 MWe in 1986\cite{ntiYongbyon2}). Simultaneously, they began to pursue light water reactors (LWRs) - signing the Treaty on the Non-Proliferation of Nuclear Weapons on the condition that they be provided additional construction assistance\cite{nti15}.   
 
-\subsection{Cycle 1}
+\subsubsection{Cycle 1}
 
 In 1992, provisions of the IAEA Safeguards Agreement associated with membership in the NPT went into effect, and the DPRK filed an initial report declaring the contents of their nuclear inventory\cite{iaea92}. However, IAEA analysis suggested a notably higher level of plutonium should exist in DPRK waste streams and stockpiles than was declared, and requested access to waste sites in order to verify or disprove the existence of undeclared plutonium\cite{iaea09}. 
 
@@ -168,7 +177,7 @@ Rather than accede to this request, the DPRK refused access, claiming that the s
  
 In response to the IAEA’s request, North Korea declared it was withdrawing from the NPT in order to protect “the supreme interests of its country”, effective 90 days after the declaration as per Article X of the treaty\cite{npt}. The United States hastily began bilateral talks, and the day before the withdrawal was to come into effect, the DPRK announced that it was suspending this action for at least until negotiations were completed\cite{nti15}. The result of these negotiations, announced in July 1993, was a joint statement between the United States and North Korea. In this statement, the United States agreed to “support the introduction of LWRs” into North Korea to replace their existing graphite-moderated reactors, while the DPRK agreed to “begin consultations with the IAEA on outstanding safeguards and other issues as soon as possible”\cite{hayes}. 
 
-\subsection{Cycle 2}
+\subsubsection{Cycle 2}
 
 In February of 1994, the agreement with the IAEA prescribed by earlier negotiations was finalized, and inspectors were allowed back into several of the DPRK’s nuclear facilities\cite{davenport}. However, the inspections that were permitted to occur were incomplete, as the DPRK insisted that only “continuity of safeguards” was required\cite{iaea09}. Under this paradigm, IAEA inspectors were only allowed into areas they had already been permitted to access – further, they were not allowed to take additional actions that might verify or disprove the existence of undeclared plutonium stores. This angered the IAEA Board of Governors, who believed that they could not accurately determine whether proliferation-related programs were occurring under such conditions\cite{davenport}.
 
@@ -176,13 +185,13 @@ In May, the IAEA’s concerns were realized, as the 5 MWe Yongbyon reactor’s f
 
 In response, the DPRK withdrew its membership from the IAEA. As a party to the NPT, the IAEA claimed it was still subject to the existing safeguards agreements – but North Korea disagreed, and refused to allow inspectors into its nuclear facilities\cite{iaea09}. Tensions continued to rise, to the point that the United States began seriously considering air strikes on Yongbyon\cite{jun}. Eventually, however, the crisis was defused as Jimmy Carter traveled to the DPRK and began negotiations that eventually culminated in the Agreed Framework\cite{nti15}. Under this agreement, the DPRK agreed to freeze the Yongbyon graphite reactors and its reprocessing program, while the US made more concrete guarantees regarding provision of LWR technology and energy aid to offset the impact of the reactor freeze\cite{agreed}. By November, the IAEA was able to confirm that operations on Yongbyon had ceased\cite{davenport}.
 
-\subsection{Cycle 3}
+\subsubsection{Cycle 3}
 
 In August of 1998, the DPRK launched a Taepodong rocket in a (likely unsuccessful) attempt to carry a satellite into orbit\cite{orfall}. Many nations denounces this as an unacceptable missile test, and were concerned by the advances in range and complexity of North Korean missile technology that it displayed\cite{orfall}. As a result, Japan suspended diplomatic talks and considered halting its funding for the Agreed Framework’s LWR program\cite{orfall}.
 
 Negotiations between the United States and North Korea began again, but were largely unsuccessful – the US offered sanction relief in exchange for termination of the DPRK missile program, but the latter claimed that sanction relief was already part of the Agreed Framework and thus not a valid incentive for negotiation\cite{davenport}. In various iterations, negotiations continue until September 1999, when the DPRK agreed to temporarily refrain from conducting long-range missile tests in exchange for limited sanction relief\cite{davenport}.
 
-\subsection{Cycle 4}
+\subsubsection{Cycle 4}
 
 In late 2002, an American official in North Korea for talks mentioned a variety of concerns held by the US regarding the DPRK’s record on nuclear proliferation and human rights\cite{davenport}. He suggested that the DPRK should work on these issues in order to improve relations with the United States, which was taken by DPRK officials as “high handed and arrogant” policy which placed unreasonable unilateral demands on them\cite{kcna3}. In this already-tense environment, conditions worsened when the US official told North Korean representatives that the United States knew about a secret enrichment facility, then publicly claimed that the North Korean representatives confirmed its existence\cite{davenport}. 
 
@@ -190,12 +199,12 @@ The DPRK denied any such admission, but the United States (along with other coun
 
 The IAEA Board of Governors was extremely displeased with this turn of events, and released a statement condemning the DPRK’s behavior\cite{iaea03}. In response, the DPRK withdrew from the NPT, claiming that they could bypass the requisite 3-month waiting period because their withdrawal in 1993 had simply been temporarily suspended\cite{kcna4}. The IAEA expressed “deep concern” and referred the issue to the UNSC, which also expressed “concern”\cite{iaea09}. However, such concern did not stop the Yongbyon 5 MWe reactor from being restarted, which occurred in February 2003\cite{davenport}. Over the next several months, talks between the US, the DPRK, and China occurred to little effect as reactor operation and spent fuel reprocessing continued apace\cite{davenport}.
 
-\subsection{Cycle 5}
+\subsubsection{Cycle 5}
 In September of 2005, the United States froze North Korean funds in Banco Delta Asia, citing money-laundering concerns, association with drug trafficking, and suspected US currency counterfeiting\cite{davenport}. Banco Delta Asia was designated a “primary money-laundering concern” and the bank was prohibited from doing business in US dollars. Immediately, other banks around the globe began to refuse to do business with the DPRK, fearing similar reprisals\cite{greenlees}.
 
 The next major round of six-party talks began shortly thereafter, and the DPRK delegation focused on the issue of the bank freeze to the exclusion of other issues\cite{greenlees}. As a result, little progress was made and the talks stalled. In early 2006, the US Treasury Department and DPRK officials discussed ways to resolve the Banco Delta Asia conflict, but remained at a stalemate - the DPRK would return to talks if the funds were unfrozen, but the US wanted to discuss issues related to the funds in multilateral negotiations\cite{greenlees}.
 
-\subsection{Cycle 6}
+\subsubsection{Cycle 6}
 
 During the summer of 2006, North Korea fired a number of missiles, including a long-range Taepodong-2. In response, South Korea halted aid programs, Japan imposed sanctions, and the UNSC sanctioned missile-related technology\cite{greenlees}. Additionally, the UNSC resolution urged a return to the six-party talks and North Korea’s previous (voluntary) missile test moratorium\cite{unsc06}. The DPRK “vehemently denounce[d] and roundly refute[d]” the resolution, vowing to “bolster its war deterrent for self-defense” in whatever ways it saw fit\cite{kcna5}.
 
@@ -207,7 +216,7 @@ Under another agreement from the most recent round of six-party talks, the DPRK 
 
 When the United States failed to remove the DPRK from the state Sponsors of Terror list after the 45-day waiting period had expired, the DPRK announced that it would halt demolishment of its graphite reactors and was willing to begin construction again\cite{davenport}. By September 2008, the DPRK had asked the IAEA to remove its seals on the North Korean reprocessing plant, and IAEA officials warned that the DPRK intended to begin reprocessing material shortly\cite{iaea09}. The US hastily reopened negotiations, and reached an agreement whereby the State Sponsors of Terror delisting would occur in exchange for a return to disablement\cite{nti15}.
 
-\subsection{Cycle 7}
+\subsubsection{Cycle 7}
 
 Speculations about a North Korean missile launch began in February 2009. Several nations released statements to the effect that such a launch would violate a UNSC resolution and therefore the DPRK should not expect to be able to go forward without serious consequences\cite{davenport}. When the DPRK warned international organizations of the time and likely location of rocket stage splashdowns, the ROK announced that it was considering joining the Proliferation Security Initiative\cite{davenport}.
 
@@ -215,17 +224,19 @@ North Korea did indeed launch a rocket – likely a modified Taepodong-2 long-ra
 
 In May, the DPRK conducted another nuclear test, likely somewhat more successful than its first\cite{nti15}. The UNSC convened an emergency meeting and released a Presidential Statement condemning North Korean nuclear tests and recommending the strengthening of sanctions\cite{unsc09p}. The ROK made good on its threat to join the Proliferation Security Initiative – which North Korea declared an act of war, voiding the Korean War armistice\cite{glionna}. The UNSC passed another resolution once again condemning North Korean nuclear tests and strengthening arms embargoes\cite{unsc09j}. This was immediately followed by a statement by the DPRK in which they outlined responses to the resolution, including increased attempts at uranium enrichment\cite{nti15}.
 
-\subsection{Cycle 8}
+\subsubsection{Cycle 8}
 
 In March of 2010, an ROK patrol ship sank near the Korean maritime border\cite{branigan}. Though the ROK initially refused to speculate on whether the DPRK was involved with the sinking\cite{branigan}, the South’s government refused to negotiate with the North until the incident could be investigated\cite{davenport}. Analysis pointing to a deliberate torpedoing by the DPRK quickly emerged\cite{reuters}, and the ROK formally announced that it would sever most economic ties with the North as a result. The next day, the DPRK announced that it would “cut all links” to the South in response to the accusations\cite{davenport}. The United States imposed additional sanctions on the DPRK, and held a joint military exercise with the ROK “to demonstrate the alliance’s resolve” and “send a strong message to Pyongyang”\cite{starr}.
 
-\subsection{Cycle 9}
+%re-examine to see whether these two are really only one
+
+\subsubsection{Cycle 9}
 
 In November, barely half a year after the Cheonan torpedo incident, the DPRK shelled Yeonpyeong Island and the ROK returned fire\cite{bbc}. China called for an immediate return to the six-party talks\cite{bbc}, but several other participant states rejected on the grounds that relations between the DPRK and the ROK were not good enough for that to be reasonable\cite{davenport}.
 
 In early 2011, the DPRK informed a Russian official that it would consider resuming the six-party talks, but the ROK rejected this offer on the grounds that there was no reason to believe in the sincerity of the DPRK’s negotiating efforts\cite{davenport}. In May, the ROK offered the DPRK a position at the Nuclear Security Summit the following year, if they would commit to denuclearization – however, the DPRK denounced this as a ruse attempting to soften the North up for invasion\cite{davenport}. Over the course of the summer, the tone of diplomacy became markedly more positive, and resumption of the six-party talks appeared more and more likely\cite{davenport}.
 
-\subsection{Cycle 10}
+\subsubsection{Cycle 10}
 
 In March of 2012, the DPRK announced that it would launch a satellite the following month to commemorate the centennial of Kim Il Sung – which, according to the United States, would violate the terms of the Leap-Day Agreement\cite{davenport}. Shortly thereafter, the US temporarily suspended its delivery of food aid, which was then halted completely after the satellite launch was (yet again, unsuccessfully) attempted in April\cite{davenport}.
 
@@ -233,9 +244,11 @@ Although the UNSC quickly condemned the launch as a violation of numerous previo
 
 In response, the DPRK announced that it intended to continue with missile testing, and additionally that it would soon conduct another nuclear test\cite{davenport}. Seismic activity consistent with underground nuclear detonation was detected in North Korea in early February of 2013\cite{davenport}. The UNSC responded with another resolution “strengthening and expanding the scope of” existing sanctions\cite{unsc13m}.
 
-\subsection{Summary of cycles}
-\subsubsection{Beginnings and Endings}
-\begin{tabular}{|l|p{6cm}|p{6cm}|}
+\subsection{Summary Tables}
+
+\begin{table}[H]
+	\caption{Beginnings and Endings}
+	\begin{tabular}{|l|p{5cm}|p{5cm}|}
 	\hline
 	Cycle (year) & Initiating Incident & End result \\ 
 	\hline
@@ -260,9 +273,11 @@ In response, the DPRK announced that it intended to continue with missile testin
 	10 (2012-13) & Missile launch (DPRK attempts to put satellite into orbit) & Increase in sanctions, DPRK nuclear testing \\
 	\hline
 	\end{tabular}
+\end{table}
 
-\subsubsection{Notable Events} 
-\begin{tabular}{|c|p{2.4cm}|p{1.6cm}|p{8cm}|}
+\begin{table}[H]
+	\caption{Notable Events} 
+	\begin{tabular}{|c|p{2.3cm}|p{1.5cm}|p{6cm}|}
 	\hline
 	Cycle (year) & Nuclear/Missile tests & Sanctions & Changes to status quo \\ 
 	\hline
@@ -286,28 +301,27 @@ In response, the DPRK announced that it intended to continue with missile testin
 	\hline
 	10 (2012-13) & Both & UN & Multiple rounds of UN sanctions imposed \\
 	\hline
-\end{tabular} 
+	\end{tabular} 
+\end{table}
 
-\subsection{Trends}
+\subsection{Trends Across Cycles}
 
-There are a number of variables that can be examined across the cycles of escalation outlined above. For the purposes of this paper, the two that will be examined are, first, the instigating party, and second, the presence or absence of weapons testing. A number of other variables – the presence of sanctions, IAEA involvement, timing with respect to military exercises, and more – could also provide interesting results, but limiting analysis to two factors will allow a manageable scope, which will hopefully yield more constructive results.
-
-\subsubsection{Cycles instigated by North Korea}
+\subsubsection{Cycles instigated by North Korean Diplomacy}
 There are two cycles (1 and 2) which began with the DPRK making diplomatic overtures to some external body. In both of these cases, the cycle concluded on a positive note – cycle 1 produced the US-DPRK joint statement in which the DPRK promised to engage with the IAEA in exchange for LWR construction aid, while cycle 2 followed this up with more concrete assurances in the same direction along with energy aid, in exchange for a full freeze on the North Korean graphite reactors.
 
 One possible explanation for this phenomenon is that, though there have been many negotiations begun by the DPRK that were not in good faith, those negotiations fizzle out rather than leading to escalatory cycles. When there is escalation, parties get more invested in seeing the cycle through to some kind of significant conclusion. If escalation was begun by diplomatic overtures by North Korea, this was because it was in a political situation in which it seemed advantageous for negotiations to occur, and therefore DPRK officials were more willing to come to the table with genuine intentions.
 
 This conclusion is limited by the fact that both cycles in which this occurred were quite early in the history of DPRK nuclear negotiations, which may mean that the international community had not yet become skeptical of North Korea’s willingness to make good on international agreements. Thus, agreements were signed – and then, many years down the line and several cycles later, broken. The theory thus cannot be confirmed or refuted until another escalatory cycle occurs in the modern political environment that begins with diplomatic overture on the part of the DPRK.
 
-\subsubsection{Cycles instigated by the United States}
-The two cycles (4 and 5) that began with US action were largely unsuccessful. In cycle 4, a US official accused the DPRK of having a secret enrichment facility, which started a series of events in which the DPRK fully withdrew from the NPT and restarted their mothballed reactors. During this process, while the DPRK regained a functioning nuclear reactor, they also saw a freeze in aid from the US, and the withdrawal from the NPT set the stage for a great deal of disagreement in years to come. In cycle 5, the US froze North Korea’s Banco Delta Asia assets, which became a sticking point for negotiations many years into the future and bogged down progress significantly.
+\subsubsection{Cycles instigated by American Action}
+The two cycles (4 and 5) that began with US action were largely unsuccessful. In cycle 4, a US official visiting the country as a diplomatic overture accused the DPRK of having a secret enrichment facility, which started a series of events in which the DPRK fully withdrew from the NPT and restarted their mothballed reactors. During this process, while the DPRK regained a functioning nuclear reactor, they also saw a freeze in aid from the US, and the withdrawal from the NPT set the stage for a great deal of disagreement in years to come. In cycle 5, the US froze North Korea’s Banco Delta Asia assets, which became a sticking point for negotiations many years into the future and bogged down progress significantly.
 
-When a cycle begins with external action, the DPRK seems to double down on its course of action and refuse to change its behavior. There is a straightforward interpretation for this behavior: both initiating events studied were adversarial in nature, and in that case it stands to reason that the DPRK would not want to be seen as caving to the aggressions of foreign powers – the United States in particular. This conclusion seems ominous for those within the US who wish to substantively influence the DPRK’s nuclear policy (and not by increasing its dedication to pursue bigger and better weapons) – but, since both examples were hostile overtures, conclusions cannot actually be drawn about externally-initiated interactions in the general case.
+When a cycle begins with external action, the DPRK seems to double down on its course and refuse to change its behavior. There is a straightforward interpretation for this behavior: both initiating events studied were adversarial in nature, and in that case it stands to reason that the DPRK would not want to be seen as caving to the aggressions of foreign powers – the United States in particular. This conclusion seems ominous for those within the US who wish to substantively and positively influence the DPRK’s nuclear policy – but, since both examples tended towards hostility, it is difficult to draw conclusions about external action in the general case.
 
 \subsubsection{Effects of weapons tests}
-North Korea has tested nuclear weapons three times. Each time, it was in the midst of an existing escalatory cycle (cycles 6, 7, and 10), immediately following a UNSC resolution or official condemnation of a missile test. Of those, cycles 7 and 10 began with satellite launches widely decried as long-range missile tests (as did cycle 3, during which no nuclear testing occurred), while cycle 6 began with a broad range of missile tests conducted under no particular pretenses.
+North Korea tested nuclear weapons three times in the period under analysis. Each time, it was in the midst of an existing escalatory cycle (cycles 6, 7, and 10), immediately following a UNSC resolution or official condemnation of a missile test. Of those, cycles 7 and 10 began with satellite launches widely decried as long-range missile tests (as did cycle 3, during which no nuclear testing occurred), while cycle 6 began with a broad range of missile tests conducted under no particular pretenses.
 
-Cycle 3, which began with an unsuccessful satellite launch using long-range missile technology, involved a year of negotiating which concluded with sanction relief for the DPRK in exchange for a voluntary moratorium on long-range testing. This, it seems, was a net win for the DPRK, which received economic benefit in exchange for an agreement that required no action on their part.
+Cycle 3, which began with an unsuccessful satellite launch using long-range missile technology, involved a year of negotiating which concluded with sanction relief for the DPRK in exchange for a voluntary moratorium on long-range testing. This, it seems, was a net win for the DPRK, which received economic benefit in exchange for an agreement that required only inaction on their part.
 
 Cycle 6 also concluded fairly positively – though it began with a missile test and involved nuclear testing and significant UNSC sanctions, the DPRK also ended the cycle with the removal of a significant freeze on funds in Banco Delta Asia (and thus, resolution of a major diplomatic roadblock), removal from the US State Sponsors of Terror list, and the relaxing of several trade barriers set up by the US government. Additionally, the DPRK agreed to allow the IAEA back into their nuclear facilities, which meant that other nations also had reason to be pleased with the final outcome of the cycle.
 
@@ -317,26 +331,14 @@ There are several likely factors at play here: first, that the missile and nucle
 
 A second relevant factor is likely that, because there have been so many cycles involving missile and nuclear escalation and the DPRK continues to have missile technology and nuclear weapons, the international community has become unwilling to believe in the sincerity of DPRK negotiations. Early on, it was possible to believe that North Korea really would roll back its programs if given the correct incentives. However, as time passed and many cycles occurred without successfully sustaining missile moratoriums and the like, people became more skeptical of this premise. Nations have begun to require more stringent and concrete assurances that the DPRK is serious, which the DPRK resents as condescension or conspiracy.
 
-\subsubsection{The memorylessness of North Korea}
-The most general statement that can be made about the behavior evident across cycles is that the DPRK acts as though it has no memory. That is, in each new situation, it reacts with outrage to international censure, protesting that it has always negotiated in good faith and is being persecuted by the unjust and greedy actions of the United States or South Korea. In short, it acts in a way that would be perfectly reasonable, had military exercises or sanctions occurred in a vacuum – however, when these responses come after actions that are themselves responses to aggressive action like missile tests, this position begins to appear less justifiable.
-
-The first possible interpretation for this behavior – and also the least interesting from the standpoint of critical analysis – is that North Korea is simply irrational, and honestly maintains the delusion that its aggressive actions should have no consequences. This is not a terribly compelling argument – the state has, after all, maintained autonomy and international importance disproportionate to its size and economic clout for a great many years, which seems implausible if it is simply acting on whims.
-
-Another interpretation is that the DPRK believes it is important to maintain an image of persecution – which could be due to a range of internal and external factors. It is possible, for example, that they intend to use this rhetoric to bolster the legitimacy of their cause in the eyes of nations that are not directly involved, but who may be valuable allies – even if the rhetoric is not borne out by the facts, nations unsympathetic to the US and their allies may latch onto it as justification for alliance with the DPRK. Additionally, it is possible that they intend this rhetoric primarily for a North Korean audience – given tight controls on non-official news sources, portraying the DPRK as persecuted but defiant may be highly advantageous in terms of maintaining patriotic sentiment and support for any actions taken within escalatory cycles.
 
 \subsection{Conclusions}
 In early cycles, the DPRK tended to come out of the cycle having gained either direct material benefit (food, oil) or assurances of future benefits from other countries. In exchange, they made agreements that, for the most part, would have them roll back their nuclear program to the state that it was in prior to the beginning of the escalatory cycle.
 
 However, as time passed, the international community became less willing to accommodate the DPRK’s behavior – perhaps because they learned from previous experiences in which the DPRK did not follow through on its commitments, or because the DPRK’s actual behavior exceeded some threshold of unacceptable provocation. Regardless of cause, negotiations with the DPRK in recent years have involved more stringent demands and strict preconditions created by the US and other nations seeking to avoid the cyclic behavior exhibited in the past.
 
-%The trends illustrated by analysis of the escalatory cycles have alarming implications for American foreign policy. Cycles in which the US initiated diplomatic actions resulted in markedly worse outcomes than cycles with DPRK-initiated diplomacy and even some cycles kicked off by missile tests. Since both cycles initiated by the United States began with hostile actions, it cannot quite be concluded that the US can never expect useful outcomes if it initiates an escalatory cycle. However, it is certainly a sobering indicator that the US cannot expect heavy-handed demands to produce useful results.
+The historic record seems to show that negotiating with North Korea is most successfully done when an escalatory cycle begins with DPRK overtures. This is unsurprising – the DPRK comes to the table intentionally, without apparent coercion to justify unproductive posturing. In general, cycles in which the US initiated engagement resulted in markedly worse outcomes than cycles with DPRK-initiated diplomacy and even some cycles the DPRK instigated with missile tests. Since both US-initiated cycles began with hostile overtures, it cannot fully be concluded that the US can never expect useful outcomes if it initiates an escalatory cycle. However, it is certainly a sobering indicator.
 
-%This is particularly awkward in light of the shift in the tone of negotiations over time – it seems that ultimatums are currently the policy option du jour. For over a year, both South Korea and the United States have refused to negotiate with North Korea until it agrees to complete denuclearization\cite{yohnap}, and, unsurprisingly, the DPRK has not responded positively\cite{kcna2}. Rather than a sign that the correct combination of sanctions and other pressures has not yet been found, perhaps American diplomats should take this as an opportunity to tone down their rhetoric – and maybe avert the doubling-down that has been seen in past cycles.
-
-The historic record seems to show that negotiating with North Korea is most successfully done when an escalatory cycle begins with DPRK overtures. This is unsurprising – the DPRK comes to the table intentionally, without apparent coercion to justify unproductive posturing. Uncomfortable as it is for American negotiators to admit, it may well be the case that the best opportunities to get a serious foot in the door of the North Korean nuclear agenda come at the behest of the North Korean government. Rather than the timeline that best suits the United States, negotiators may be best served by waiting for opportunities and seizing them as they come.
-
-\todo{needs 2016 update!!}
-\todo{maybe move conclusions to end}
 \section{Technical Analysis}
 
 %I feel like actually this wants to go first or last - tell us about what north korea can currently do, use it to either frame the history or provide context for what's currently/will eventually occur
@@ -353,14 +355,25 @@ Examination of missile and bomb technology will include both weapon miniaturizat
 
 In conjunction, this information reveals a great deal about North Korea's position in nuclear negotiations. "Breakout time", or the amount of time necessary to produce a bomb's worth of weapons-grade nuclear material, was a critical discussion point in Iranian nuclear negotiations. It seems likely, therefore, that the speed with which the DPRK could credibly produce a weapon might impact how the US negotiates with them - the easier it is for North Korea to make a bomb, the more difficult the process of convincing them to give up the technology may become - and the more urgent the problem becomes. Additionally, as the amount of work that stands between the DPRK and the ability to threaten nuclear strikes on distant capitals decreases, a similar calculus occurs.
 
-\todo{'technical analysis in its entirety'}
+\subsection{Production Capacity}
+%Production capacity analysis will draw initially from the technical details reported by analysts like Hecker\cite{hecker} who have observed North Korean enrichment and reprocessing facilities firsthand. Further analysis will draw preferentially from information provided by NGOs, with gaps filled in by information released by American and DPRK sources. (It is believed that government estimates are more likely to be biased in one direction or the other, so these sources will be avoided unless no other estimates exist)
+\todo{technical analysis - production capacity}
+
+\subsection{Stockpile Estimation}
+%Stockpile estimation will examine the amount of nuclear material shipped into the DPRK as part of various treaties and agreements over the years, as well as any estimates that exist on material that may have been smuggled into or out of the country. Production capacity analysis will be used to suggest how much bomb-grade material the DPRK has now or could straightforwardly produce based on initial materials estimates.
+\todo{technical analysis - stockpile}
+
+\subsection{Missile and Bomb Technology}
+%Examination of missile and bomb technology will include both weapon miniaturization (the process by which nuclear warheads can be made small enough to fit on a missile) and the status of the DPRK's missile program. The outcomes of recent missile and nuclear tests will be examined, and expert analysis on the magnitude of explosions, level of advancement of rockets, etc. will be considered. 
+\todo{technical analysis - missile/bomb tech}
+
+\subsection{Conclusions}
+\todo{technical analysis - conclusion}
 
 \section{Rhetorical Analysis}
 
 \subsection{Methodology}
 The development of the escalatory cycles model in the historical section forms the starting point of rhetorical analysis. As the relationship between the DPRK and the US shifts through rising and falling tensions, it is expected that the rhetoric used by official outlets on either side will shift commensurately.
-
-This rhetorical examination will focus on the evolution of diplomatic language over time - for example, the phrases used by official North Korean news to describe political adversaries, or the terms US officials emphasize when discussing previous agreements. These are valuable indicators of general attitude, and when taken in conjunction with the outcomes of the associated negotiating efforts, can suggest correlations between various rhetorical tendencies and the prospects for successful negotiation.
 
 This work will draw upon previous efforts by Rich \cite{rich12, rich14} and Sin \cite{sin}, who each used data drawn from a decade of articles from the English-language website for the KCNA (North Korea's ruling party's official news source intended for foreign eyes) to track trends in the DPRK's nuclear rhetoric. The KCNA website is an extremely useful source of information on the views and policies of the North Korean government. It is produced directly by the government for foreign consumption, which means that patterns found within its rhetoric reveal (intentional or accidental) signaling of agenda by the North Korean government rather than the biases of foreign translators \cite{rich12}. Trends discovered within these data will be compared across escalatory cycles in order to understand the way in which North Korean rhetoric tracks with the state of nuclear diplomacy.
 
@@ -368,15 +381,13 @@ Since the range of data Rich and Sin examine ends before the 2013 nuclear test, 
 
 No automated content analysis exists for similar statements from the United States, in part due to the significantly broader set of statements available, and producing such analysis is too complex an undertaking for this thesis. However, this does not preclude rhetorical analysis of the American side of the picture. A number of academics have analyzed the way American policy towards the DPRK has shifted over time, and the role of verbal hostility (or lack thereof) in this process.
 
-Bleiker \cite{bleiker}, Sigal \cite{sigal}, and Harnisch \cite{harnisch} each identify the dominant modes of discourse in American political circles about the DPRK for a different time period around the turn of the 21st century. Bleiker and Harnisch draw comparisons between diplomacy under the Clinton administration and that taking place during the early Bush years, and Sigal (published before Bush took office) focuses on the Clinton era and before. All three authors attempt to trace patterns of American behavior in a way that is instructive in painting a picture of the broader rhetorical strategies employed by the United States on this issue.
+Bleiker \cite{bleiker}, Harnisch \cite{harnisch}, Huntley \cite{huntley}, and Sigal \cite{sigal} each identify the dominant modes of discourse in American political circles about the DPRK for a different time period around the turn of the 21st century. Bleiker and Harnisch draw comparisons between diplomacy under the Clinton administration and that taking place during the early Bush years, Huntley examines the Bush years after the Agreed Framework's collapse, and Sigal (published before Bush took office) focuses on the Clinton era and before. Several other authors \cite{crs13,green} have engaged in similar examinations on the Obama administration. All attempt to trace patterns of American behavior in a way that is instructive in painting a picture of the broader rhetorical strategies employed by the United States on this issue.
 
-The sort of qualitative analysis that is available on the American side of the US-DPRK divide is somewhat different in its utility than the numerical data that can be unearthed on North Korean rhetoric. It is, by nature, more prone to biases introduced by the authors of papers seeking to interpret it. However, this is a necessary feature of the fundamental difference in the record of public statements by American and North Korean officials. Where it is possible to find direct statements of principle by American officials less filtered by concerns for public opinion - through interviews after they are no longer in power, or through leaked documents they had no intention of publicizing - this sort of information is not readily available and indeed generally does not seem to exist for North Korean officials, so instead it is necessary to turn to the indirect revelation of priorities and positions through statistical tricks.
+The sort of qualitative analysis that is available on the American side of the US-DPRK divide is somewhat different in its utility than the numerical data that can be unearthed on North Korean rhetoric. It is, by nature, more prone to biases introduced by the authors of papers seeking to interpret it. However, this is a necessary feature of the fundamental difference in the record of public statements by American and North Korean officials. For one thing, the sheer breadth of information available from American politicians makes numerical analysis unreasonable. Additionally, the sort of statements available from American politicians - interviews once they leave power, leaked documents meant to remain private, and the like - allows discernment of political agenda in a more direct manner than the statistical tricks required to discover the reasoning behind some of the DPRK's postures. %american politicians are much worse at security than north korea, whoops
 
-
-\subsection{General Rhetorical Trends}
-\subsubsection{North Korea}
-
-Rich \cite{rich14} examined KCNA articles from 1997-2012 in order to develop a profile of topics and nations most frequently mentioned in conjunction with nuclear issues. In examining member nations to the six-party talks, he discovered something interesting -  the United States was near the bottom in terms of reference frequency, but was more strongly correlated with nuclear mentions than any other nation. Since the six-party talks have been the primary locus of nuclear diplomacy during the studied timeframe, it is expected that the countries party to the talks would be mentioned in a nuclear context more than other countries.
+\subsection{North Korean Rhetorical Trends}
+\subsubsection{Time-Invariant}
+Rich \cite{rich14} examined KCNA articles from 1997-2012 in order to develop a profile of topics and nations most frequently mentioned in conjunction with nuclear issues. In examining member nations to the six-party talks, he discovered something interesting -  the United States was near the bottom in terms of reference frequency, but was more strongly correlated with nuclear mentions than any other nation. Since the six-party talks were the primary locus of nuclear diplomacy during the studied timeframe, it is expected that the countries party to the talks would be mentioned in a nuclear context more than other countries - however, the overwhelming focus on the United States is highly significant.
 
 The fact that the United States is disproportionately referenced in articles discussing nuclear matters is confirmed by additional research conducted by Rich on the year of the Yeonpyeong and Cheonan incidents, during which "increase in references to the United States, holding all else constant, [was] the largest predictor of additional references to nuclear issues" - even though in that year, references to the United States altogether were notably rarer than any other six-party talks member and barely above references to Mexico \cite{rich12}.
 
@@ -384,20 +395,7 @@ This suggests that, though the nuclear diplomacy effort with the DPRK is intende
 
 Confirming DPRK focus on the United States suggests that analyzing the nuclear issue from a primarily bilateral standpoint is in fact valid - shifting messages and the like are clearly crafted with American eyes in mind. But more generally, this provides evidence that American preference for developing broad multilateral support for negotiations is misguided - if the DPRK cares mostly about what the US thinks, adding more voices from other countries likely provides at best marginal gains.
 
-\subsubsection{United States}
-
-Bleiker \cite{bleiker} analyzed American policy with respect to the DPRK, focusing on the Clinton and Bush administrations. He found a systematic trend in the rhetoric and apparent worldview of American officials rooted in Cold War ideology - the notion of the "rogue state". Defined oppositionally to US interests, the "rogue state" is a foreign threat that must be thwarted at every turn. The intensity of the rhetoric couching this notion has ebbed and flowed, but the fundamental paradigm remains the same, and has been identified by many scholars\cite{bleiker,smith,sigal,cumings}.
-
-Furthering this analysis, Smith \cite{smith} suggests that most American politicians view North Korea as either "mad" or "bad" - in each case, fundamentally malicious, and either unknowable ("mad", and therefore impossible to negotiate with) or devious ("bad", and therefore morally repugnant to engage in diplomacy with). This split is evidenced by the dual focus in public statements regarding the DPRK on their instability and the grave threat they pose to the United States and its allies \cite{smith}. 
-
-Another rhetorical factor that frequently escapes mention in analysis of this relationship is the nuclear posturing done by the United States. Ever since the 1950s, when the US violated a portion of the Korean Armistice Agreement to place nuclear weapons in South Korea, American policy has consistently erred on the side of nuclear grandstanding with respect to the DPRK \cite{cumings}. Indeed, in 1999 the DPRK had been the subject of more nuclear threats from the US than any other nation \cite{sigal}. Three years later, a leaked Defense Department report identified the nation as one of seven potential targets for nuclear strikes \cite{harnisch}.
-
-North Korea has been intermittently labeled "America's greatest security threat"\cite{cumings} since at least the 1990s. In conjunction with the "rogue state" ideology and consistently aggressive nuclear posturing, this has framed the nature of US-DPRK diplomacy for the entire timeframe of interest with respect to the escalatory cycles.
-
-\subsection{Cycle-based Analysis}
-Though some general trends can be identified in American and North Korean rhetoric largely independent of the passage of time, more interesting for the purposes of this examination are the links between escalatory cycles and changes in the language of diplomacy. 
-
-\subsubsection{North Korea}
+\subsubsection{Time-Variant}
 
 The articles examined primarily identified trends within the most recent half of the escalatory cycles previously discussed. During cycle 6, for example, there were a number of rhetorical shifts evident surrounding the nuclear test: Rich found that nuclear references increased leading up to the test, then declined immediately afterwards\cite{rich14}. Sin, meanwhile, noted that while most major incidents of DPRK action are framed in terms of "nationalism", this nuclear test in particular was covered with rhetoric focused on "US imperialism"\cite{sin}. That is, where KCNA coverage of almost every major occurrence (like missile and nuclear tests, Yeonpyeong, and Cheonan) used predominantly keywords highlighting North Korean nationalism, the 2006 nuclear test was covered using keywords highlighting US imperialism. This shift lends further credibility to the general theme of nuclear issues being seen as responses to or instigators of US action by DPRK actors.
 
@@ -417,9 +415,20 @@ In 2003, at the tail end of cycle 4 and correlated with both the restart of the 
 
 At the end of 2011, Kim Jong Il died and his son succeeded him as ruler of the DPRK. At this time, there was also a dramatic increase in nuclear rhetoric in KCNA articles, perhaps in an attempt to reinforce the strength of the new regime in the eyes of the international community\cite{rich14}. This also did not directly feed into an escalatory cycle, although there were obviously a great deal of secondary impacts to the changeover of power.
 
-\subsubsection{US}
+\subsection{American Rhetorical Trends}
+\subsubsection{Time-Invariant}
 
-The bulk of literature available on the impact of American rhetoric on the US-DPRK diplomatic process tends to focus on the earlier cycles under examination - particularly, the latter part of the Clinton administration and the earliest few years under George W. Bush. During the years leading up to and including cycle 1, American politicians did not seriously believe in the possibility of a diplomatic solution to the North Korean nuclear dilemma. Consequently, the prospect of negotiations was talked around and avoided, and the language of diplomacy was always heavily couched in threats \cite{sigal}.
+Bleiker \cite{bleiker} analyzed American policy with respect to the DPRK, focusing on the Clinton and Bush administrations. He found a systematic trend in the rhetoric and apparent worldview of American officials rooted in Cold War ideology - the notion of the "rogue state". Defined oppositionally to US interests, the "rogue state" is a foreign threat that must be thwarted at every turn. The intensity of the rhetoric couching this notion has ebbed and flowed, but the fundamental paradigm remains the same, and has been identified by many scholars\cite{bleiker,cumings,sigal,smith}.
+
+Furthering this analysis, Smith suggests that most American politicians view North Korea as either "mad" or "bad" - in each case, fundamentally malicious, and either unknowable ("mad", and therefore impossible to negotiate with) or devious ("bad", and therefore morally repugnant to engage in diplomacy with). This split is evidenced by the dual focus in public statements regarding the DPRK on their instability and the grave threat they pose to the United States and its allies \cite{smith}. 
+
+Another rhetorical factor that frequently escapes mention in analysis of this relationship is the nuclear posturing done by the United States. Ever since the 1950s, when the US violated a portion of the Korean Armistice Agreement to place nuclear weapons in South Korea, American policy has consistently erred on the side of nuclear grandstanding with respect to the DPRK \cite{cumings}. Indeed, in 1999 the DPRK had been the subject of more nuclear threats from the US than any other nation \cite{sigal}. Three years later, a leaked Defense Department report identified the nation as one of seven potential targets for nuclear strikes \cite{harnisch}.
+
+North Korea has been intermittently labeled "America's greatest security threat"\cite{cumings} since at least the 1990s. In conjunction with the "rogue state" ideology and consistently aggressive nuclear posturing, this has framed the nature of US-DPRK diplomacy for the entire timeframe of interest with respect to the escalatory cycles.
+
+\subsubsection{Time-Variant}
+
+During the years leading up to and including cycle 1, American politicians did not seriously believe in the possibility of a diplomatic solution to the North Korean nuclear dilemma. Consequently, the prospect of negotiations was talked around and avoided, and the language of diplomacy was always heavily couched in threats \cite{sigal}.
 
 During cycle 2, as the conflict between the US and the DPRK escalated, the former insisted upon "crime-and-punishment"-style diplomacy \cite{bleiker}, a regime in which the DPRK would have to back down and admit wrongdoing to avoid serious negative repercussions. Former president Carter's back-channel negotiations took a different approach - encouraging cooperation and offering concessions in exchange for a rollback in the North Korean nuclear program \cite{sigal}.
 
@@ -429,28 +438,57 @@ The necessity of courting Congressional approval for US-DPRK negotiation strateg
 
 In early 2002, George Bush's Axis of Evil speech was a mostly-accurate indicator of the broader state of American policy views towards the DPRK. Within a few months, the Defense Department's Nuclear Posture Review was leaked, which outlined a plan for a potential nuclear strike on North Korea\cite{npreview}. Additionally, both the Posture Review and the official National Security Strategy of that year emphasized the legitimacy of pre-emptive strikes against "rogue states"\cite{bleiker}, rhetoric that was echoed by Rumsfeld in news conferences that fall\cite{harnisch}.
 
-Talks in North Korea in late 2002 devolved quickly to accusations of cheating on the Agreed Framework, initiating the fourth escalatory cycle under examination. Diplomats from other nations reported that the American diplomatic team "immediately started with accusations", resisting efforts at negotiation \cite{bleiker}. 
+Talks in North Korea in late 2002 devolved quickly to accusations of cheating on the Agreed Framework, initiating cycle 4. Diplomats from other nations reported that the American diplomatic team "immediately started with accusations", resisting efforts at negotiation \cite{bleiker}. When the Agreed Framework collapsed and North Korea withdrew from the NPT, the Bush administration made little more than token efforts to preserve the "line in the sand" of nonproliferation norms\cite{huntley}. Meanwhile, focus began to shift from bilateral engagement with the DPRK towards multilateral diplomacy and pressures, as the six-party talks began in late 2003 \cite{crs13}.
 
+Bush's second inaugural address reinforced his administration's general preference for encouraging regime change in places like North Korea and avoiding diplomacy with dictators. Emphasis continued to fall on making sure nuclear weapons did not fall into the "wrong" hands, rather than opposing proliferation in the general case - indeed, in discussing the NPT conference in 2005, a high-ranking State Department official claimed it was unreasonable to expect somewhere like the United States to make proliferation-related guarantees to somewhere like North Korea \cite{huntley}.
 
-\todo{See if there's anything written recently about anything later than 2002...}
+During cycle 5, an apparent relaxing of the previous hard-line approach during negotiations in the fourth round of six-party talks gave way to a return to the status quo. Though American negotiators made concessions on their previous stance of "complete, verifiable, and irreversible" disarmament as a precondition to negotiation, the progress made with the Statement of Principles at the end of the talks was only brief \cite{huntley}. In early 2006, an updated National Security Strategy was released by the Bush administration, emphasizing "proactive counterproliferation" and democracy-building \cite{nss06}. And though this document touted the successes of the six-party talks, the beginnings of a return to dogmatism is already apparent in both the preemptive strike rhetoric and in the explicit mention of the DPRK as in need of regime change \cite{nss06}.
+
+The Obama administration began its relationship with North Korea with an eye towards more open diplomacy, echoing campaign sentiments suggesting "willingness to engage with 'rogue' governments" \cite{crs13}. In stark contrast to the Bush administration's distaste for the NPT \cite{huntley}, Obama's focus on reducing the global nuclear threat informed a renewed focus on bringing North Korea into the fold of non-proliferation norms \cite{crs13}.
+
+The Obama administration has described its perspective as one of "strategic patience" \cite{crs13}, though critics claim this is code for putting the North Korean nuclear issue on the back burner to all but ignore \cite{green}. The administration has continued to push for sanctions in response to incidents like the 2012 satellite launch, but the preconditions for negotiations have been reduced from "complete, verifiable, and irreversible" disarmament \cite{huntley} to "commit[ing] to steps toward denuclearization" \cite{crs13}.
+
+Additionally, the Obama administration has followed the Bush lead with respect to multilateralism - pushing for a return to the six-party talks \cite{crs13}, and emphasizing a sanctioning strategy palatable to all members of the UNSC \cite{green}. This has been paired with a high degree of coordination with South Korea - from an uptick in joint military exercises to near-identical focus in diplomatic engagements \cite{crs13}.
 
 \subsection{Conclusions}
-Cycle correlations \& other stuff of relevance
-\todo{rhetoric conclusions}
-
 \subsubsection{North Korea}
 
 The clearest trend in North Korean nuclear rhetoric has been its dramatic increase over time. This is shown clearly in Figure \todo{monthly avgs, above}, which tracks average monthly references for each year 1997-2014. Despite an outlier in 2003, the distribution is fairly clearly exponential - which tracks with the increase in distinct escalatory cycles as time passes. In general, it seems evident that the DPRK has been ramping up its nuclear ambitions, both in word and deed, at an ever-increasing rate as time passes.
 
 The implications are concerning: the longer the status quo remains, the more emphasis will likely be placed on retaining nuclear competence, both rhetorically and materially. This is confirmed by historical examination - where earlier cycles contained agreements to roll back the DPRK's nuclear programs almost completely, it has been made clear in more recent years that this is no longer an option the DPRK will consider. The more time passes, the harder it may become to achieve the stated US objective of complete denuclearization.
 
-The rhetoric used by North Korea to discuss nuclear tests and other significant military incidents suggests that such actions are, to some significant extent, posturing for the attention of the United States. This would seem to contraindicate the emphasis many politicians place on returning to multilateral negotiations like the six-party talks. Each additional participant in negotiations adds a new set of demands and their own agenda to the mix, and if no commensurate benefit is seen from adding more voices to the conversation, it becomes counterproductive very quickly. The US diplomatic strategy in part relies on applying pressure in conjunction with the international community, but it seems that the DPRK is uninterested in the international community's perspective on nuclear matters.
+The rhetoric used by North Korea to discuss nuclear tests and other significant military incidents suggests that such actions are, to some significant extent, posturing for the attention of the United States. This would seem to contraindicate the emphasis many politicians place on returning to multilateral negotiations like the six-party talks. Each additional participant in negotiations adds a new set of demands and their own agenda to the mix, and if no commensurate benefit is seen from adding more voices to the conversation, it becomes counterproductive very quickly. The modern US diplomatic strategy relies heavily upon applying pressure in conjunction with the international community, but it seems that the DPRK is uninterested in the international community's perspective on nuclear matters.
+
+\subsection{United States}
+There is a distinct evolution in American rhetorical strategies as time has passed, largely correlated with various presidential administrations. During the Clinton administration, "rogue state" labeling and outward hostility was combined with back-channel negotiations - perhaps seeking to preserve a sort of moral high ground while still reaping the benefits of a more conciliatory stance.
+
+The Bush administration, by contrast, focused on acting as the world's policeman, replacing non-democratic governments with US-friendly democracies, and altering the country's nuclear agenda to make sure "the right people" had nuclear weapons. These combined to strengthen the "rogue state" rhetoric of the Clinton administration - going so far as to heavily imply that the radical reorganization of North Korean governmental structure would be preferable to as-is negotiation. Even back-channel diplomacy was largely replaced with all-or-nothing ultimatums, and bilateral communication was eschewed in favor of multilateral talks.
+
+The Obama administration expanded the multilateral focus introduced by Bush - though the six-party talks fell apart in 2008, more recent years have seen significant increases in coordination between the United States and regional allies on the DPRK question. Additionally, a new emphasis on non-proliferation norms has informed the rhetorical strategies surrounding international consensus-building. In terms of direct contact with North Korean officials, "strategic patience" has become the focus - though concessions are still demanded as preconditions to productive talks, the language such demands are couched in has been toned down dramatically.
+
+Across administrations, the DPRK has consistently been portrayed as a "rogue state", as unpredictable as it is dangerous. This rhetoric informs the standard bargaining position - North Korea's willingness to engage in productive diplomacy cannot be trusted until it has met substantive preconditions. The degree to which these preconditions have been emphasized has traded off from the overt hostility of the Bush administration to the "strategic patience" of Obama, but the fundamental framework has remained. 
+
+Interestingly, the standard bargaining position has often been subverted by back-channel negotiations and the words of some individuals within the executive branch more willing to entertain the notion of broader compromises. It seems likely that this discrepancy between public posturing and quieter action is informed at least somewhat by the need to appear responsive to public opinion - the American people tend to be displeased by the notion that their tax dollars are going towards appeasing oppressive regimes. Like the North Korea government, American politicians tend to speak in hard-line generalities in order to appear strong in their convictions, but can occasionally be induced to compromise behind closed doors.
 
 \section{Results and Discussion}
 \todo{results}
 
+%edit this to make it less about cycles and more general
+%\subsubsection{The memorylessness of North Korea}
+%The most general statement that can be made about the behavior evident across cycles is that the DPRK acts as though it has no memory. That is, in each new situation, it reacts with outrage to international censure, protesting that it has always negotiated in good faith and is being persecuted by the unjust and greedy actions of the United States or South Korea. In short, it acts in a way that would be perfectly reasonable, had military exercises or sanctions occurred in a vacuum – however, when these responses come after actions that are themselves responses to aggressive action like missile tests, this position begins to appear less justifiable.
+
+%The first possible interpretation for this behavior – and also the least interesting from the standpoint of critical analysis – is that North Korea is simply irrational, and honestly maintains the delusion that its aggressive actions should have no consequences. This is not a terribly compelling argument – the state has, after all, maintained autonomy and international importance disproportionate to its size and economic clout for a great many years, which seems implausible if it is simply acting on whims.
+
+%Another interpretation is that the DPRK believes it is important to maintain an image of persecution – which could be due to a range of internal and external factors. It is possible, for example, that they intend to use this rhetoric to bolster the legitimacy of their cause in the eyes of nations that are not directly involved, but who may be valuable allies – even if the rhetoric is not borne out by the facts, nations unsympathetic to the US and their allies may latch onto it as justification for alliance with the DPRK. Additionally, it is possible that they intend this rhetoric primarily for a North Korean audience – given tight controls on non-official news sources, portraying the DPRK as persecuted but defiant may be highly advantageous in terms of maintaining patriotic sentiment and support for any actions taken within escalatory cycles.
+
 \section{Conclusion}
 \todo{conclusions}
+
+
+%from cycle conclusions - 22.04 paper
+%This is particularly awkward in light of the shift in the tone of negotiations over time – it seems that ultimatums are currently the policy option du jour. For over a year, both South Korea and the United States have refused to negotiate with North Korea until it agrees to complete denuclearization\cite{yohnap}, and, unsurprisingly, the DPRK has not responded positively\cite{kcna2}. Rather than a sign that the correct combination of sanctions and other pressures has not yet been found, perhaps American diplomats should take this as an opportunity to tone down their rhetoric – and maybe avert the doubling-down that has been seen in past cycles.
+%Uncomfortable as it is for American negotiators to admit, it may well be the case that the best opportunities to get a serious foot in the door of the North Korean nuclear agenda come at the behest of the North Korean government. Rather than the timeline that best suits the United States, negotiators may be best served by waiting for opportunities and seizing them as they come.
+
 
 \bibliographystyle{ieeetr}
 \bibliography{references}
