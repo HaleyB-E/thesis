@@ -2,10 +2,11 @@ Section Title| Status
 -------------|--------
 Introduction | 1st draft done
 Background   | 1st draft done
-Methodology  | 1st draft done
-Historical   | 1st draft done (timeline on gsheets)
-Technical    |
+Methodology  | 1st draft done, moved to individual sections
+Historical   | 1st draft done, needs more work (timeline on gsheets)
+Technical    | SCRAPPED
 Rhetorical   | 1st draft done
+Diplomatic   |
 Res/Disc     |
 Conclusions  |
-References   |
+References   | there sure are a lot of 'em
