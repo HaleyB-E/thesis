@@ -46,7 +46,7 @@
 \contentsline {subsubsection}{\numberline {6.3.1}Collapse of the Agreed Framework}{29}
 \contentsline {subsubsection}{\numberline {6.3.2}Rise of the Six-Party Talks}{30}
 \contentsline {subsection}{\numberline {6.4}Obama and Kim Jong-il, 2009-2011}{31}
-\contentsline {subsection}{\numberline {6.5}Obama and Kim Jong-un, 2012 and beyond}{31}
-\contentsline {subsection}{\numberline {6.6}Conclusions}{31}
-\contentsline {section}{\numberline {7}Results and Discussion}{32}
-\contentsline {section}{\numberline {8}Conclusion}{32}
+\contentsline {subsection}{\numberline {6.5}Obama and Kim Jong-un, 2012 and beyond}{32}
+\contentsline {subsection}{\numberline {6.6}Conclusions}{33}
+\contentsline {section}{\numberline {7}Results and Discussion}{33}
+\contentsline {section}{\numberline {8}Conclusion}{34}
