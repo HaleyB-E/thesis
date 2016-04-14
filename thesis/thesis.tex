@@ -2,7 +2,10 @@
 \usepackage[utf8]{inputenc}
 \usepackage{todo}
 \usepackage{float}
+\usepackage{graphicx}
 \usepackage{caption} \captionsetup[table]{singlelinecheck=false}
+\usepackage[font=footnotesize]{caption}
+
 
 \title{Thesis}
 \author{Haley Brandt-Erichsen}
@@ -352,13 +355,21 @@ In addition to rhetorical shifts that correlate with escalatory cycles, there ar
 
 In 2002 (between cycles 3 and 4), US President George W. Bush's State of the Union speech referenced North Korea by name as part of ``an axis of evil, arming to threaten the peace of the world."\cite{sotu02} This American rhetorical flourish (which will be discussed in more detail in the following section) did not explicitly or immediately lead to direct fallout, excluding it from consideration as a precipitating incident of an escalatory cycle. However, it is correlated with a major jump in nuclear references in KCNA articles \cite{rich14} and was repeatedly used by North Korean officials as a signal of American attitudes that justified the magnitude of their actions\cite{bleiker}.
 
-In 2003, at the tail end of cycle 4 and correlated with both the restart of the Yongbyon reactor and the first two rounds of the six-party talks, STALIN statistics indicate that the average monthly mentions of nuclear topics hit a distinct local maximum, as shown in figure \todo{figure of monthly averages}. Immediately after this period, US officials were shown DPRK nuclear facilities. It seems likely that this uptick is explained largely by the number of parallel but not explicitly linked issues of a nuclear nature that were happening in the country during 2003 - unlike some later increases in nuclear rhetoric that are less straightforwardly mapped to time periods of high activity.
+In 2003, at the tail end of cycle 4 and correlated with both the restart of the Yongbyon reactor and the first two rounds of the six-party talks, STALIN statistics indicate that the average monthly mentions of nuclear topics hit a distinct local maximum, as shown in figure \ref{fig:kcna_refs}. Immediately after this period, US officials were shown DPRK nuclear facilities. It seems likely that this uptick is explained largely by the number of parallel but not explicitly linked issues of a nuclear nature that were happening in the country during 2003 - unlike some later increases in nuclear rhetoric that are less straightforwardly mapped to time periods of high activity.
+
+\begin{figure}[H]
+\centering
+	\includegraphics[width=0.7\linewidth]{kcna_refs}
+	\caption{Monthly frequency of articles using the words ``nuke" or ``nuclear" were scraped from STALIN search results. Frequencies were averaged by year. Exponential distribution produces $R^2=0.622$, which is higher than linear or any reasonable polynomial fit.}
+\label{fig:kcna_refs}
+\end{figure}
+
 
 At the end of 2011, Kim Jong-il died and his son succeeded him as ruler of the DPRK. At this time, there was also a dramatic increase in nuclear rhetoric in KCNA articles, perhaps in an attempt to reinforce the strength of the new regime in the eyes of the international community\cite{rich14}. This also did not directly feed into an escalatory cycle, although there were obviously a great deal of secondary impacts to the changeover of power.
 
 \subsubsection{Results and Trends}
 
-The clearest trend in North Korean nuclear rhetoric has been its dramatic increase over time. This is shown clearly in Figure \todo{monthly avgs, above}, which tracks average monthly references for each year 1997-2014. Despite an outlier in 2003, the distribution is fairly clearly exponential - which tracks with the increase in distinct escalatory cycles as time passes. In general, it seems evident that the DPRK has been ramping up its nuclear ambitions, both in word and deed, at an ever-increasing rate as time passes.
+The clearest trend in North Korean nuclear rhetoric has been its dramatic increase over time. This is shown in figure \ref{fig:kcna_refs}, which tracks average monthly references for each year 1997-2014. Despite an outlier in 2003, the distribution follows an upward and in fact approximately exponential trend - which tracks with the increase in distinct escalatory cycles as time passes. In general, it seems evident that the DPRK has been ramping up its nuclear ambitions, both in word and deed, at an ever-increasing rate as time passes.
 
 The implications are concerning: the longer the status quo remains, the more emphasis will likely be placed on retaining nuclear competence, both rhetorically and materially. This is confirmed by historical examination - where earlier cycles contained agreements to roll back the DPRK's nuclear programs almost completely, it has been made clear in more recent years that this is no longer an option the DPRK will consider. The more time passes, the harder it may become to achieve the stated US objective of complete denuclearization.
 
@@ -564,7 +575,7 @@ The particular brand of pressure engendered by American advocacy of tough measur
 
 This indicates that current American strategy - and, in particular, focus on extracting commitments to complete denuclearization before further talks can occur - is fundamentally flawed. Indeed, even if the precondition were dispensed with, it is hard to imagine a scenario in which the DPRK would seriously commit to abandoning its nuclear ambitions without dramatic shifts to the status quo. America must either radically reconsider what it is willing to do in order to remove North Korea as a nuclear threat, or face the reality that the DPRK is a nuclear power and shift its focus to damage control.
 
-
+\todo{appendix with stalin scraper}
 
 \bibliographystyle{ieeetr}
 \bibliography{references}

@@ -30,9 +30,9 @@
 \contentsline {subsubsection}{\numberline {5.2.3}Results and Trends}{20}
 \contentsline {subsection}{\numberline {5.3}American Rhetoric}{21}
 \contentsline {subsubsection}{\numberline {5.3.1}Time-Invariant}{21}
-\contentsline {subsubsection}{\numberline {5.3.2}Time-Variant}{21}
-\contentsline {subsubsection}{\numberline {5.3.3}Results and Trends}{23}
-\contentsline {section}{\numberline {6}Diplomatic Evolution}{24}
+\contentsline {subsubsection}{\numberline {5.3.2}Time-Variant}{22}
+\contentsline {subsubsection}{\numberline {5.3.3}Results and Trends}{24}
+\contentsline {section}{\numberline {6}Diplomatic Evolution}{25}
 \contentsline {subsection}{\numberline {6.1}Pre-1994}{25}
 \contentsline {subsection}{\numberline {6.2}Clinton and Kim Jong-il, 1994-2000}{25}
 \contentsline {subsubsection}{\numberline {6.2.1}Development of the Agreed Framework}{25}
@@ -41,10 +41,10 @@
 \contentsline {subsubsection}{\numberline {6.3.1}Collapse of the Agreed Framework}{27}
 \contentsline {subsubsection}{\numberline {6.3.2}Rise of the Six-Party Talks}{28}
 \contentsline {subsection}{\numberline {6.4}Obama and Kim Jong-il, 2009-2011}{29}
-\contentsline {subsection}{\numberline {6.5}Obama and Kim Jong-un, 2012-2013}{30}
+\contentsline {subsection}{\numberline {6.5}Obama and Kim Jong-un, 2012-2013}{31}
 \contentsline {section}{\numberline {7}Conclusions}{31}
 \contentsline {subsection}{\numberline {7.1}The Agreed Framework and the Leap Day Agreement}{31}
 \contentsline {subsection}{\numberline {7.2}Lessons Learned and Future Prospects}{33}
 \contentsline {subsubsection}{\numberline {7.2.1}The Problem With International Pressure}{33}
-\contentsline {subsubsection}{\numberline {7.2.2}The Problem With Strategic Patience}{33}
-\contentsline {subsubsection}{\numberline {7.2.3}Is American Strategy Reasonable?}{34}
+\contentsline {subsubsection}{\numberline {7.2.2}The Problem With Strategic Patience}{34}
+\contentsline {subsubsection}{\numberline {7.2.3}Is American Strategy Reasonable?}{35}
