@@ -2,51 +2,49 @@
 \contentsline {section}{\numberline {2}Introduction}{3}
 \contentsline {subsection}{\numberline {2.1}Motivation}{3}
 \contentsline {subsection}{\numberline {2.2}Objectives}{4}
-\contentsline {section}{\numberline {3}Background}{4}
-\contentsline {subsection}{\numberline {3.1}Brief history of North Korean nuclear programs and negotiations}{4}
+\contentsline {section}{\numberline {3}Background}{5}
+\contentsline {subsection}{\numberline {3.1}Brief history of North Korean nuclear programs and negotiations}{5}
 \contentsline {subsection}{\numberline {3.2}Current Political Status}{5}
 \contentsline {subsection}{\numberline {3.3}Previous Analysis of the Problem}{6}
-\contentsline {section}{\numberline {4}Historical Analysis}{7}
+\contentsline {section}{\numberline {4}Historical Foundation}{7}
 \contentsline {subsection}{\numberline {4.1}Methodology}{7}
-\contentsline {subsection}{\numberline {4.2}Timeline}{7}
-\contentsline {subsubsection}{\numberline {4.2.1}Early development of the North Korean nuclear program}{7}
+\contentsline {subsection}{\numberline {4.2}Timeline}{8}
+\contentsline {subsubsection}{\numberline {4.2.1}Early development of the North Korean nuclear program}{8}
 \contentsline {subsubsection}{\numberline {4.2.2}Cycle 1}{8}
-\contentsline {subsubsection}{\numberline {4.2.3}Cycle 2}{8}
+\contentsline {subsubsection}{\numberline {4.2.3}Cycle 2}{9}
 \contentsline {subsubsection}{\numberline {4.2.4}Cycle 3}{9}
-\contentsline {subsubsection}{\numberline {4.2.5}Cycle 4}{9}
+\contentsline {subsubsection}{\numberline {4.2.5}Cycle 4}{10}
 \contentsline {subsubsection}{\numberline {4.2.6}Cycle 5}{10}
-\contentsline {subsubsection}{\numberline {4.2.7}Cycle 6}{10}
-\contentsline {subsubsection}{\numberline {4.2.8}Cycle 7}{11}
+\contentsline {subsubsection}{\numberline {4.2.7}Cycle 6}{11}
+\contentsline {subsubsection}{\numberline {4.2.8}Cycle 7}{12}
 \contentsline {subsubsection}{\numberline {4.2.9}Cycle 8}{12}
 \contentsline {subsubsection}{\numberline {4.2.10}Cycle 9}{12}
 \contentsline {subsubsection}{\numberline {4.2.11}Cycle 10}{13}
 \contentsline {subsection}{\numberline {4.3}Summary Tables}{14}
-\contentsline {subsection}{\numberline {4.4}Trends Across Cycles}{15}
-\contentsline {subsubsection}{\numberline {4.4.1}Cycles instigated by North Korean Diplomacy}{15}
-\contentsline {subsubsection}{\numberline {4.4.2}Cycles instigated by American Action}{16}
-\contentsline {subsubsection}{\numberline {4.4.3}Effects of weapons tests}{16}
-\contentsline {subsection}{\numberline {4.5}Conclusions}{18}
-\contentsline {section}{\numberline {5}Rhetorical Analysis}{18}
-\contentsline {subsection}{\numberline {5.1}Methodology}{18}
-\contentsline {subsection}{\numberline {5.2}North Korean Rhetorical Trends}{19}
-\contentsline {subsubsection}{\numberline {5.2.1}Time-Invariant}{19}
-\contentsline {subsubsection}{\numberline {5.2.2}Time-Variant}{20}
-\contentsline {subsection}{\numberline {5.3}American Rhetorical Trends}{22}
-\contentsline {subsubsection}{\numberline {5.3.1}Time-Invariant}{22}
-\contentsline {subsubsection}{\numberline {5.3.2}Time-Variant}{23}
-\contentsline {subsection}{\numberline {5.4}Conclusions}{25}
-\contentsline {subsubsection}{\numberline {5.4.1}North Korea}{25}
-\contentsline {subsubsection}{\numberline {5.4.2}United States}{25}
-\contentsline {section}{\numberline {6}Diplomatic Evolution}{26}
-\contentsline {subsection}{\numberline {6.1}Pre-1994}{27}
-\contentsline {subsection}{\numberline {6.2}Clinton and Kim Jong-il, 1994-2000}{27}
-\contentsline {subsubsection}{\numberline {6.2.1}Development of the Agreed Framework}{27}
-\contentsline {subsubsection}{\numberline {6.2.2}After the Agreed Framework}{28}
-\contentsline {subsection}{\numberline {6.3}Bush and Kim Jong-il, 2001-2008}{29}
-\contentsline {subsubsection}{\numberline {6.3.1}Collapse of the Agreed Framework}{29}
-\contentsline {subsubsection}{\numberline {6.3.2}Rise of the Six-Party Talks}{30}
-\contentsline {subsection}{\numberline {6.4}Obama and Kim Jong-il, 2009-2011}{31}
-\contentsline {subsection}{\numberline {6.5}Obama and Kim Jong-un, 2012-2013}{33}
-\contentsline {subsection}{\numberline {6.6}Conclusions}{34}
-\contentsline {section}{\numberline {7}Results and Discussion}{35}
-\contentsline {section}{\numberline {8}Conclusion}{35}
+\contentsline {subsection}{\numberline {4.4}Results and Trends}{15}
+\contentsline {section}{\numberline {5}Rhetorical Strategies}{16}
+\contentsline {subsection}{\numberline {5.1}Methodology}{16}
+\contentsline {subsection}{\numberline {5.2}North Korean Rhetoric}{17}
+\contentsline {subsubsection}{\numberline {5.2.1}Time-Invariant}{17}
+\contentsline {subsubsection}{\numberline {5.2.2}Time-Variant}{18}
+\contentsline {subsubsection}{\numberline {5.2.3}Results and Trends}{20}
+\contentsline {subsection}{\numberline {5.3}American Rhetoric}{21}
+\contentsline {subsubsection}{\numberline {5.3.1}Time-Invariant}{21}
+\contentsline {subsubsection}{\numberline {5.3.2}Time-Variant}{22}
+\contentsline {subsubsection}{\numberline {5.3.3}Results and Trends}{24}
+\contentsline {section}{\numberline {6}Diplomatic Evolution}{25}
+\contentsline {subsection}{\numberline {6.1}Pre-1994}{25}
+\contentsline {subsection}{\numberline {6.2}Clinton and Kim Jong-il, 1994-2000}{25}
+\contentsline {subsubsection}{\numberline {6.2.1}Development of the Agreed Framework}{25}
+\contentsline {subsubsection}{\numberline {6.2.2}After the Agreed Framework}{26}
+\contentsline {subsection}{\numberline {6.3}Bush and Kim Jong-il, 2001-2008}{27}
+\contentsline {subsubsection}{\numberline {6.3.1}Collapse of the Agreed Framework}{27}
+\contentsline {subsubsection}{\numberline {6.3.2}Rise of the Six-Party Talks}{28}
+\contentsline {subsection}{\numberline {6.4}Obama and Kim Jong-il, 2009-2011}{29}
+\contentsline {subsection}{\numberline {6.5}Obama and Kim Jong-un, 2012-2013}{31}
+\contentsline {section}{\numberline {7}Conclusions}{31}
+\contentsline {subsection}{\numberline {7.1}The Agreed Framework and the Leap Day Agreement}{31}
+\contentsline {subsection}{\numberline {7.2}Lessons Learned and Future Prospects}{33}
+\contentsline {subsubsection}{\numberline {7.2.1}The Problem With International Pressure}{33}
+\contentsline {subsubsection}{\numberline {7.2.2}The Problem With Strategic Patience}{34}
+\contentsline {subsubsection}{\numberline {7.2.3}Is American Strategy Reasonable?}{35}
