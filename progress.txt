@@ -1,7 +1,7 @@
 Section Title| Status
 -------------|--------
-Introduction | 1st draft done
-Background   | 1st draft done
+Introduction | 2nd draft done
+Background   | 2nd draft done
 Methodology  | 1st draft done, moved to individual sections
 Historical   | 1st draft done (timeline on gsheets)
 Technical    | SCRAPPED
@@ -9,4 +9,4 @@ Rhetorical   | 1st draft done
 Diplomatic   | 1st draft done
 Res/Disc     | NOT NECESSARY
 Conclusions  | 1st draft done
-References   | there sure are a lot of 'em
+References   | capitalization is messed up
