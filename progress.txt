@@ -2,8 +2,8 @@ Section Title| Status
 -------------|--------
 Introduction | 2nd draft done
 Background   | 2nd draft done
-Methodology  | 1st draft done, moved to individual sections
-Historical   | 1st draft done (timeline on gsheets)
+Methodology  | <moved to individual sections>
+Historical   | 2nd draft done (timeline on gsheets)
 Technical    | SCRAPPED
 Rhetorical   | 1st draft done
 Diplomatic   | 1st draft done
