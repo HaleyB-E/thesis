@@ -5,7 +5,7 @@ Background   | 2nd draft done
 Methodology  | <moved to individual sections>
 Historical   | 2nd draft done (timeline on gsheets)
 Technical    | SCRAPPED
-Rhetorical   | 1st draft done
+Rhetorical   | 2nd draft done
 Diplomatic   | 1st draft done
 Res/Disc     | NOT NECESSARY
 Conclusions  | 1st draft done
