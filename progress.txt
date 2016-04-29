@@ -1,12 +1,12 @@
 Section Title| Status
 -------------|--------
-Introduction | 2nd draft done
-Background   | 2nd draft done
+Introduction | Done
+Background   | Done
 Methodology  | <moved to individual sections>
-Historical   | 2nd draft done (timeline on gsheets)
+Historical   | Done (timeline on gsheets)
 Technical    | SCRAPPED
-Rhetorical   | 2nd draft done
-Diplomatic   | 2nd draft done
+Rhetorical   | Done
+Diplomatic   | Done
 Res/Disc     | NOT NECESSARY
-Conclusions  | 2nd draft done
-References   | capitalization is messed up
+Conclusions  | Done
+References   | Done

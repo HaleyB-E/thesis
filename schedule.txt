@@ -11,5 +11,5 @@ Apr 1	       | Changing Attitudes - kind of conclusion-y but not really	|Done
 Apr 8	       | Fix history section again					|Done
 Apr 15	       | Appendices, figures, send draft to Kemp			|Done
 Apr 22	       | (Forgot about this week before!) get feedback			|Done
-Apr 29	       | Fix formatting and integrate final feedback			|Formatting fixed, working on edits
+Apr 29	       | Fix formatting and integrate final feedback			|Done
 May 6	       | Submission deadline
