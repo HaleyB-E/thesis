@@ -35,7 +35,9 @@
 \usepackage{caption} \captionsetup[table]{singlelinecheck=false}
 \usepackage[font=footnotesize]{caption}
 \usepackage[T1]{fontenc}
+\usepackage{todo}
 \pagestyle{plain}
+\raggedbottom
 
 %% This bit allows you to either specify only the files which you wish to
 %% process, or `all' to process all files which you \include.
@@ -54,7 +56,9 @@
 % applicable.
 % \include{signature}
 \pagestyle{plain}
+\include{abstract}
 \include{contents}
+\include{chap0}
 \include{chap1}
 \include{chap2}
 \include{chap3}
